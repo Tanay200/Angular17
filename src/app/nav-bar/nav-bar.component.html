@@ -1,0 +1,46 @@
+<mat-toolbar color="primary">
+  <button mat-icon-button id="menuIcon" (click)="sidenav.toggle()">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>The Daily Chronicle</span>
+  <div class="spacer"></div>
+  <div class="menu-container">
+    <a class="menu-top-icon" mat-raised-button (click)="navigateTo('home')" [color]="selectedTab === 'home' ? 'warn' : 'primary'">Home</a>
+    <a class="menu-top-icon" mat-raised-button (click)="navigateTo('politics')" [color]="selectedTab === 'politics' ? 'warn' : 'primary'">Politics</a>
+    <a class="menu-top-icon" mat-raised-button (click)="navigateTo('world')" [color]="selectedTab === 'world' ? 'warn' : 'primary'">World</a>
+    <a class="menu-top-icon" mat-raised-button (click)="navigateTo('sports')" [color]="selectedTab === 'sports' ? 'warn' : 'primary'">Sports</a>
+    <a class="menu-top-icon" mat-raised-button (click)="navigateTo('business')" [color]="selectedTab === 'business' ? 'warn' : 'primary'">Business</a>
+    <div style="display:flex;align-items:center">
+      <input class="searhbar" matInput placeholder="Search For" [(ngModel)]="searchText">
+      <button  class="searchButton" mat-raised-button color="warn" (click)="searchBar()">Search</button>
+    </div>
+  </div>
+
+</mat-toolbar>
+<mat-sidenav-container>
+  <mat-sidenav #sidenav id="sideNavspace" [fixedInViewport]="true" [fixedTopGap]="59" class="mat-side-nav" mode="side">
+    <div class="side-nav-items">
+      <div style="padding:10%">
+        <a class="side-nav-item" mat-raised-button  (click)="navigateTo('home')" [color]="selectedTab === 'home' ? 'warn' : 'primary'">Home</a>
+      </div>
+      <div style="padding:10%">
+        <a class="side-nav-item" mat-raised-button  (click)="navigateTo('politics')" [color]="selectedTab === 'politics' ? 'warn' : 'primary'">Politics</a>
+      </div>
+      <div style="padding:10%">
+        <a class="side-nav-item" mat-raised-button (click)="navigateTo('world')" [color]="selectedTab === 'world' ? 'warn' : 'primary'">World</a>
+      </div>
+      <div style="padding:10%">
+        <a class="side-nav-item" mat-raised-button  (click)="navigateTo('sports')" [color]="selectedTab === 'sports' ? 'warn' : 'primary'">Sports</a>
+      </div>
+      <div style="padding:10%">
+        <a class="side-nav-item" mat-raised-button  (click)="navigateTo('business')" [color]="selectedTab === 'business' ? 'warn' : 'primary'">Business</a>
+      </div>
+      </div>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+
+
+

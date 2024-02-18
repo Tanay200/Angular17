@@ -1,0 +1,50 @@
+.spacer{
+  flex: 1 1 auto;
+}
+.menu-container{
+    display: flex;
+    gap: 20px;
+    margin-left: 5%;
+}
+.searhbar{
+  border-radius: 10px;
+  border: 1px solid #3F51B5;
+  width: 100%;
+  font-size: 12px;
+  padding-left: 10px;
+  margin-right: 4%;
+}
+.searchButton{
+  font-size: 12px;
+  border-radius: 10px;
+}
+@media (min-width:900px) {
+  #menuIcon{
+    display: none;
+  }
+  #sideNavspace{
+    display: none;
+  }
+
+}
+@media (max-width:900px) {
+  .menu-top-icon{
+    display: none;
+  }
+}
+.mat-side-nav{
+  background-color: #3F51B5;
+  position: absolute;
+  top: 0px !important;
+}
+.mat-toolbar{
+  height: 60px;
+}
+.side-nav-items{
+  display: flex;
+  flex-direction:column; ;
+}
+.side-nav-item{
+  color: white !important;
+  width: 100%;
+}
