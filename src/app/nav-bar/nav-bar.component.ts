@@ -7,7 +7,6 @@ import {MatCardModule} from '@angular/material/card';
 import { ActivatedRoute, NavigationEnd, Router, RouterOutlet } from '@angular/router';
 import {MatButtonModule} from '@angular/material/button';
 import { HttpClientModule } from '@angular/common/http';
-import { filter } from 'rxjs';
 import { NewsService } from '../news.service';
 import { FormsModule } from '@angular/forms';
 
@@ -50,8 +49,8 @@ export class NavBarComponent implements OnInit {
 
   private updateSelectedTab(): void {
     // Extract tab information from route parameters
-    const currentTab = this.activatedRoute.snapshot.firstChild?.routeConfig?.path || 'home';
-    this.selectedTab = currentTab;
+    const currentTab = this.activatedRoute.snapshot.paramMap.get('selectedTab');
+    this.selectedTab = currentTab || 'home';
     this.newsService.selectedTab = this.selectedTab;
   }
 

@@ -10,7 +10,7 @@
     <a class="menu-top-icon" mat-raised-button (click)="navigateTo('world')" [color]="selectedTab === 'world' ? 'warn' : 'primary'">World</a>
     <a class="menu-top-icon" mat-raised-button (click)="navigateTo('sports')" [color]="selectedTab === 'sports' ? 'warn' : 'primary'">Sports</a>
     <a class="menu-top-icon" mat-raised-button (click)="navigateTo('business')" [color]="selectedTab === 'business' ? 'warn' : 'primary'">Business</a>
-    <div style="display:flex;align-items:center">
+    <div style="display:none;align-items:center">
       <input class="searhbar" matInput placeholder="Search For" [(ngModel)]="searchText">
       <button  class="searchButton" mat-raised-button color="warn" (click)="searchBar()">Search</button>
     </div>

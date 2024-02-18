@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 163652,
+  "articles": [
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Andy Greenberg",
+          "title": "A Startup Allegedly ‘Hacked the World.’ Then Came the Censorship—and Now the Backlash",
+          "description": "A loose coalition of anti-censorship voices is working to highlight reports of one Indian company’s hacker-for-hire past—and the legal threats aimed at making them disappear.",
+          "url": "https://www.wired.com/story/appin-training-centers-lawsuits-censorship/",
+          "urlToImage": "https://media.wired.com/photos/65b99af46599a951c10c510b/191:100/w_1280,c_limit/security_indian_hackers_coverup.jpg",
+          "publishedAt": "2024-02-01T17:30:00Z",
+          "content": "Even so, a little more than two weeks after publishing its investigation into Appin Technology, on December 5, Reuters complied with the Indian court's injunction, removing its story. Soon, in a kind… [+3750 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Sean Hollister",
+          "title": "Microsoft Teams is down around the world, it’s not just you",
+          "description": "Microsoft Teams is down — with outages in North America, South America, Europe, the Middle East, and Africa, according to the latest status update from Microsoft’s official account.",
+          "url": "https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
+          "publishedAt": "2024-01-26T19:16:10Z",
+          "content": "Illustration: The Verge\r\n\n \n\n Is it a joyous outage where you get to relax, or something mission critical going wrong? Either way, “a portion” of Microsoft Teams is down — with outages in North Ameri… [+2947 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Aarian Marshall",
+          "title": "Ford Is Giving Away Free Tesla Charger Converters That Will Unlock a New World of EV Power",
+          "description": "Mustang Mach-E and F-150 Lightning pickup owners can now reserve complimentary adapters—but the real win is access to one of the largest and most developed charging networks in the world.",
+          "url": "https://www.wired.com/story/ford-is-giving-away-free-tesla-ev-charger-converters/",
+          "urlToImage": "https://media.wired.com/photos/65ba8ab45616ce5477cad23d/191:100/w_1280,c_limit/Ford-Tesla-Charger-Adapter-Gear-Ford_Tesla_Mustang%20Mach-E.jpg",
+          "publishedAt": "2024-01-31T20:05:45Z",
+          "content": "Ford CEO Jim Farley hopped on Elon Musks X today to make an announcement relevant to Elon Musks Tesla: Ford will be giving away adapters so that its electric vehicles can easily charge on Teslas char… [+2889 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Could AI 'trading bots' transform the world of investing?",
+          "description": "Artificial intelligence is increasing being used to guide investments but risks remain.",
+          "url": "https://www.bbc.co.uk/news/business-68092814",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE44/production/_132500965_gettyimages-1917867951.jpg",
+          "publishedAt": "2024-02-01T00:13:05Z",
+          "content": "Search for \"AI investing\" online, and you'll be flooded with endless offers to let artificial intelligence manage your money.\r\nI recently spent half an hour finding out what so-called AI \"trading bot… [+5847 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Isaac Schultz",
+          "title": "NASA's Asteroid Samples May Be Crumbs From an Ancient Ocean World",
+          "description": "After months of frustration, NASA finally got the Bennu asteroid sample container open in January, revealing the large amounts of asteroid scooped up by the OSIRIS-REx spacecraft. Now, a top member of the mission says the distant hunk of space rock may be a p…",
+          "url": "https://gizmodo.com/nasas-asteroid-samples-may-be-crumbs-from-an-ancient-oc-1851234881",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/16c68dcb1aeacea9cb45d8f89c59cfa6.jpg",
+          "publishedAt": "2024-02-07T17:33:00Z",
+          "content": "After months of frustration, NASA finally got the Bennu asteroid sample container open in January, revealing the large amounts of asteroid scooped up by the OSIRIS-REx spacecraft. Now, a top member o… [+2582 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Artem Golub and Germain Lussier",
+          "title": "The Animal Kingdom Imagines a World of Humans Turning Into Animals",
+          "description": "Directed by Thomas Cailley, the film opens in theaters and arrives on VOD March 15.",
+          "url": "https://gizmodo.com/the-animal-kingdom-imagines-a-world-of-humans-turning-i-1851236680",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bfde634d4452f340f8db6a82948e3469.jpg",
+          "publishedAt": "2024-02-09T00:30:00Z",
+          "content": "Directed by Thomas Cailley, the film opens in theaters and arrives on VOD March 15."
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Jaron Lanier, Allison Stanger",
+          "title": "The One Internet Hack That Could Save Everything",
+          "description": "It’s so simple: Axe 26 words from the Communications Decency Act. Welcome to a world without Section 230.",
+          "url": "https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/",
+          "urlToImage": "https://media.wired.com/photos/65cab367fba39b01a4f4c12f/191:100/w_1280,c_limit/021224-internet-section-230.jpg",
+          "publishedAt": "2024-02-13T11:00:00Z",
+          "content": "The impact on the public sphere has been, to say the least, substantial. In removing so much liability, Section 230 forced a certain sort of business plan into prominence, one based not on uniquely a… [+3904 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Vittoria Elliott",
+          "title": "How Ready Is Meta for the Biggest Election Year in History?",
+          "description": "WIRED spoke with a member of Meta’s Oversight Board about how the company plans to handle elections around the world in 2024.",
+          "url": "https://www.wired.com/story/meta-disinformation-elections/",
+          "urlToImage": "https://media.wired.com/photos/65b2d8f43bf5a8c8d050a6b4/191:100/w_1280,c_limit/Pamela-San-Martin-Q&A-Meta-Oversight-Board-Politics.jpg",
+          "publishedAt": "2024-01-26T12:00:00Z",
+          "content": "What we asked for was for Meta to clarify that its policy restricting account for public figures should apply not only in contexts where we have incidents of civil unrest or incidents of violence, bu… [+3896 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Charles Pulliam-Moore",
+          "title": "Knuckles is ready to box in new trailer for his Paramount Plus spinoff series",
+          "description": "Paramount Plus’ new Knuckles spinoff — out April 26th — pairs the echidna warrior with a cop to save the world from former Robotnik employees in new trailer.",
+          "url": "https://www.theverge.com/24065972/knuckles-paramount-plus-series-sonic-3-trailer",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/rITiRbRvUr59CYZB4cYpsHunG_U=/0x0:3840x1585/1200x628/filters:focal(1920x793:1921x794)/cdn.vox-cdn.com/uploads/chorus_asset/file/25274158/Knuckles_101_0002_RT.jpg",
+          "publishedAt": "2024-02-08T15:40:20Z",
+          "content": "Knuckles is ready to box in new trailer for his Paramount Plus spinoff series\r\nKnuckles is ready to box in new trailer for his Paramount Plus spinoff series\r\n / Paramount Plus new Knuckles spinoff se… [+2072 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Ash Parrish",
+          "title": "Universal’s next big park will include werewolves, dragons, and Super Mario",
+          "description": "Universal Studios’ new Universal Epic Universe theme park in Orlando, Florida, will feature five worlds, including a Super Nintendo World and a new Harry Potter park.",
+          "url": "https://www.theverge.com/24055456/super-nintendo-world-universal-epic-universe-florida",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/wsYewHIxsWdh0s8ZdwHVmkaN56Y=/0x0:8256x5504/1200x628/filters:focal(4128x2752:4129x2753)/cdn.vox-cdn.com/uploads/chorus_asset/file/24449315/SUPER_NINTENDO_WORLD_land_at_USH__2_.jpg",
+          "publishedAt": "2024-01-30T15:29:14Z",
+          "content": "Universals next big park will include werewolves, dragons, and Super Mario\r\nUniversals next big park will include werewolves, dragons, and Super Mario\r\n / Play with Mario, fly dragons, scream with Dr… [+2486 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Victoria Song",
+          "title": "Samsung’s smart ring might signal the start of a new wearable era",
+          "description": "Samsung teased that it’s working on a Galaxy Ring at Unpacked. Not only is that throwing down the gauntlet at Oura but it also might shake up the wearable world order.",
+          "url": "https://www.theverge.com/2024/1/19/24041922/samsung-galaxy-ring-smart-ring-wearables",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/yCb-ER5HVmICnFIisNn0M2grOVA=/0x0:4000x3000/1200x628/filters:focal(2000x1500:2001x1501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25232332/20240117_111336.jpg",
+          "publishedAt": "2024-01-19T20:52:25Z",
+          "content": "Samsungs smart ring might signal the start of a new wearable era\r\nSamsungs smart ring might signal the start of a new wearable era\r\n / Samsung offered few details about its Galaxy Ring, but its more … [+4611 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Chris Welch",
+          "title": "Bose’s new earbuds don’t go inside your ears at all",
+          "description": "Bose has announced the $299 Ultra Open Earbuds, a new style of earbuds with a unique clip-on design that frees up your ears to remain present in the world around you.",
+          "url": "https://www.theverge.com/2024/2/15/24073713/bose-ultra-open-earbuds-announced-features",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/3Zn_rZE2QaF242cfXVkJjnS7kfQ=/0x0:1431x906/1200x628/filters:focal(716x453:717x454)/cdn.vox-cdn.com/uploads/chorus_asset/file/25287446/Bose_Ultra_Open_Earbuds_11.jpg",
+          "publishedAt": "2024-02-15T14:00:00Z",
+          "content": "Boses new earbuds dont go inside your ears at all\r\nBoses new earbuds dont go inside your ears at all\r\n / The Ultra Open Earbuds are meant to be worn all day, and they free up your ears so you can hea… [+2528 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Chris Welch",
+          "title": "Bose’s Ultra Open Earbuds are its boldest, most unique earbuds yet",
+          "description": "Bose’s new earbuds have a clip-on design and attach to your outer ear without blocking your ear canal. This allows you to always hear the outside world along with your music.",
+          "url": "https://www.theverge.com/24073019/bose-ultra-open-earbuds-review",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/_QSrNbD2w3BU5kN8KtFd2JMq320=/0x0:2040x1360/1200x628/filters:focal(1029x590:1030x591)/cdn.vox-cdn.com/uploads/chorus_asset/file/25286103/DSCF6450.jpg",
+          "publishedAt": "2024-02-15T14:00:00Z",
+          "content": "With a design that clings to your outer ear, these earbuds are unlike anything the company has made before — and Bose hopes they’ll find more success than its unconventional products of the past. Bos… [+9944 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Week in pictures: 13-19 January 2024",
+          "description": "A selection of striking images from around the world, taken over the past seven days.",
+          "url": "https://www.bbc.co.uk/news/in-pictures-68028732",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06FA/production/_132368710_2024-01-14t225853z_2096098415_rc2q7l93h7pg_rtrmadp_3_denmark-royals-1.jpg",
+          "publishedAt": "2024-01-20T01:12:49Z",
+          "content": "A selection of powerful news photographs taken around the world this week."
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Week in pictures: 20-26 January 2024",
+          "description": "A selection of striking images from around the world, taken over the past seven days.",
+          "url": "https://www.bbc.co.uk/news/in-pictures-68104624",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD6B/production/_132438665_wip08.jpg",
+          "publishedAt": "2024-01-27T01:43:51Z",
+          "content": "A selection of striking news photographs taken around the world this week."
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "World's first year-long breach of key 1.5C warming limit",
+          "description": "The last 12 months were the hottest on record, temporarily sending the world past a deeply symbolic mark.",
+          "url": "https://www.bbc.co.uk/news/science-environment-68110310",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15E4E/production/_132587698_1_warming_threshold_getty.jpg",
+          "publishedAt": "2024-02-08T03:00:18Z",
+          "content": "For the first time, global warming has exceeded 1.5C across an entire year, according to the EU's climate service.\r\nWorld leaders promised in 2015 to try to limit the long-term temperature rise to 1.… [+5406 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Moti Mahal: India curry houses battle over butter chicken",
+          "description": "Butter chicken - a curry popular around the world - is now in the middle of a court battle in India.",
+          "url": "https://www.bbc.co.uk/news/world-asia-india-68053470",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7084/production/_132440882_58713943-a08f-40dc-a23f-65c524353a72.jpg",
+          "publishedAt": "2024-01-28T01:17:04Z",
+          "content": "Who invented butter chicken? \r\nThe velvety dish, made in a thick tomato-yoghurt gravy with rich notes of butter and mild spices, has inspired mystery novels, travelogues, and countless restaurant ord… [+7549 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Rachel Botsman",
+          "title": "To Keep Gen Z, Companies Need to Level Up",
+          "description": "The old playbook for power and control won’t work to retain Gen Z talent. Instead, employers need to take a cue from Roblox.",
+          "url": "https://www.wired.com/story/to-keep-gen-z-companies-need-to-level-up/",
+          "urlToImage": "",
+          "publishedAt": "2024-01-19T12:00:00Z",
+          "content": "In 2024, there will be a paradigm shift in employee-employer power and trust dynamics. Its part of a generational redesign of work from being like a game of Tetris to becoming like a game of Roblox.\r… [+3735 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Stephen Armstrong",
+          "title": "Climate Finance Is Targeting the Wrong Industries",
+          "description": "Roughly half of the world’s emissions currently can’t be reduced, yet green investment continues to avoid the sectors that need the most help—manufacturing, agriculture, and the built environment.",
+          "url": "https://www.wired.com/story/climate-finance-wrong-targets-investment-green-daria-saharova/",
+          "urlToImage": "https://media.wired.com/photos/65caaab26ec7723ee2ba408d/191:100/w_1280,c_limit/emissions-science-GettyImages-1304916289.jpg",
+          "publishedAt": "2024-02-13T13:50:49Z",
+          "content": "To achieve net-zero carbon emissions by 2030, we have to increase the amount of capital invested in climate tech by 590 percent, says Daria Saharova, managing partner at VC World Fund, a European ven… [+3156 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Paul Squire",
+          "title": "Navalny's wife urges the world to unite against Putin",
+          "description": "Alexey Navalny's wife, Yulia, called on the world to stand against Vladimir Putin's government in Russia hours after it claimed her husband was dead.",
+          "url": "https://www.businessinsider.com/alexey-navalny-wife-yulia-navalnaya-putin-russia-speech-2-2024",
+          "urlToImage": "https://i.insider.com/65cf82bb6fcb546d2d50a691?width=1200&format=jpeg",
+          "publishedAt": "2024-02-16T15:44:43Z",
+          "content": "Alexey Navalny's wife Yulia Navalnaya speaks at the Munich Security Conference on February 16, 2024.AP\r\n<ul><li>Alexey Navalny's wife spoke just hours after Russia announced he was dead.</li><li>Yuli… [+1685 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Jennifer Ouellette",
+          "title": "Novel camera system lets us see the world through eyes of birds and bees",
+          "description": "It captures natural animal-view moving images with over 90 percent accuracy.",
+          "url": "https://arstechnica.com/science/2024/01/novel-camera-system-lets-us-see-the-world-through-eyes-of-birds-and-bees/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/animal1-760x380.jpg",
+          "publishedAt": "2024-01-23T19:00:04Z",
+          "content": "4\r\nA new camera system and software package allows researchers and filmmakers to capture animal-view videos. Credit: Vasas et al., 2024.\r\nA new camera system and software package allows researchers a… [+4871 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Harvard Business Review"
+          },
+          "author": null,
+          "title": "Can Second-Generation Ethanol Production Help Decarbonize the World?",
+          "description": "How Brazil’s green energy champion, Raízen, is expanding the market for second-generation ethanol and other sugar-cane waste biofuels.",
+          "url": "https://hbr.org/podcast/2024/01/can-second-generation-ethanol-production-help-decarbonize-the-world",
+          "urlToImage": "https://hbr.org/resources/images/article_assets/2023/04/wide-cold-call-hbr.png",
+          "publishedAt": "2024-01-30T14:22:00Z",
+          "content": "Raízen, a bioenergy company headquartered in São Paulo, is Brazils leader in sugar and ethanol production and the worlds leading ethanol trader. Since its creation in 2011, the company had primarily … [+101 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Sean Hollister",
+          "title": "Watch 11 minutes of Final Fantasy VII Rebirth gameplay — and the final trailer",
+          "description": "Final Fantasy VII Rebirth is coming February 29th, and both Sony and Square Enix want to make damn sure that fans know this game is a can’t-miss event. Here’s over 12 minutes of video.",
+          "url": "https://www.theverge.com/2024/2/6/24064121/final-fantasy-vii-rebirth-final-trailer-gameplay-video",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/vLkFFjUCNy0aTq8-FTeI5cDTQEE=/0x0:2560x1790/1200x628/filters:focal(1280x895:1281x896)/cdn.vox-cdn.com/uploads/chorus_asset/file/25271214/SCR_20240206_oise.jpeg",
+          "publishedAt": "2024-02-07T00:17:29Z",
+          "content": "Cosmo Canyon. Nibelheim. Dolphin racing. Vincent Valentine. A one-winged Sephiroth. Marlene’s dad Dyne. Mini-game after mini-game after mini-game to play. “The world will be saved, but will you?” ask… [+1206 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Stephen Armstrong",
+          "title": "Wild Animals Should Be Paid for the Benefits They Provide Humanity",
+          "description": "Healthy ecosystems in developing countries sequester carbon, regulate the weather, and help plants grow thousands of miles away. Wealthier countries benefit from these services—and so should pay for them to be maintained.",
+          "url": "https://www.wired.com/story/wild-animals-paid-ecosystem-benefits-ecoflix-ian-redmond/",
+          "urlToImage": "https://media.wired.com/photos/65caa6f6f553745750c04769/191:100/w_1280,c_limit/elephant-congo-science-GettyImages-630005418.jpg",
+          "publishedAt": "2024-02-13T13:51:16Z",
+          "content": "We need to understand the value of nature if we want to protect itand that should include paying ecosystems for keeping us alive, argues Ian Redmond, head of conservation for not-for-profit streaming… [+2853 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "VentureBeat"
+          },
+          "author": "Jeff Hollan, Snowflake",
+          "title": "How data engineers should prepare for an AI world",
+          "description": "How AI will allow data engineers to automate the most laborious parts of their work and free up time to think about the bigger picture.",
+          "url": "https://venturebeat.com/ai/how-data-engineers-should-prepare-for-an-ai-world/",
+          "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_search_bar_surrounded_by_computer_cod_199d9c24-fad9-4b68-be1d-24804f25ed37-transformed-e1706380066210.webp?w=1200&strip=all",
+          "publishedAt": "2024-01-27T19:05:00Z",
+          "content": "Theres been a lot of chatter lately about how the AI revolution will diminish the role of data engineers. I dont believe thats the case in fact, data expertise will be more critical than ever. Howeve… [+4986 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Kris Holt",
+          "title": "Death Stranding is coming to select Apple devices on January 30",
+          "description": "After a relatively short delay\r\n, you'll soon be able to enter the uniquely strange world of Death Stranding on Apple devices. Hideo Kojima's walking simulator will be available on iPhone 15 Pro models\r\n and iPads and Macs\r\n with M-series chips on January 30.…",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a30c02a-a7cd-4c41-a722-b0adfb70f295",
+          "urlToImage": null,
+          "publishedAt": "2024-01-23T17:35:44Z",
+          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Mat Smith",
+          "title": "The Morning After: Foldable iPhone rumors, Rogan’s new Spotify deal and more",
+          "description": "Welcome to the weekend. First, read our Vision Pro review, but also try not to look directly at Devindra's Vision Pro avatar. I think it may be cursed. Yes, Apple's vision of the future of computing is here to bleed early adopters of thousands of dollars. I h…",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c1961ae0-1d19-4f3c-a776-0f7ae32bdf0b",
+          "urlToImage": null,
+          "publishedAt": "2024-02-10T16:00:06Z",
+          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Jennifer Ouellette",
+          "title": "Shhhh! A Quiet Place: Day One trailer is anything but quiet",
+          "description": "“Experience the day the world went quiet.”",
+          "url": "https://arstechnica.com/culture/2024/02/shhhh-a-quiet-place-day-one-trailer-is-anything-but-quiet/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/quiet1-760x380.jpg",
+          "publishedAt": "2024-02-07T19:31:13Z",
+          "content": "7\r\nLupita Nyong'o stars as Sam in A Quiet Place: Day One.\r\nThe 2018 post-apocalyptic horror film A Quiet Place deservedly won critical raves and an Oscar for sound editing. Sound, and often the absen… [+4544 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Thomas Germain",
+          "title": "The Best Clips From OpenAI's New Video Generator, So Far",
+          "description": "One of the more unsettling things about AI is how blisteringly fast the technology develops. A few months ago, it seemed like useful AI-generated video tools were still out of reach. Well, now that’s over. OpenAI just released a new text-to-video generator ca…",
+          "url": "https://gizmodo.com/the-best-clips-from-openais-new-video-generator-so-far-1851261989",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9c13bdc256c38bb34bf3d36be1eddc16.gif",
+          "publishedAt": "2024-02-15T22:35:00Z",
+          "content": "One of the more unsettling things about AI is how blisteringly fast the technology develops. A few months ago, it seemed like useful AI-generated video tools were still out of reach. Well, now thats … [+1640 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Thomas Germain",
+          "title": "Peter Thiel Is Funding a New Olympics, Steroids Not a Problem",
+          "description": "There’s good news for steroid fans: juicers will finally get their day on the field. A who’s who of extremely online investors pitched in to fund a series of events called the Enhanced Games, which describes itself as “the 21st Century Olympics without drug t…",
+          "url": "https://gizmodo.com/peter-thiel-is-funding-a-new-olympics-steroids-not-a-p-1851211979",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a4f0f173203ec6b19c9881ac9bb62ebc.png",
+          "publishedAt": "2024-01-31T16:35:00Z",
+          "content": "Theres good news for steroid fans: juicers will finally get their day on the field. A whos who of extremely online investors pitched in to fund a series of events called the Enhanced Games, which des… [+2522 chars]"
+      },
+      {
+          "source": {
+              "id": "the-next-web",
+              "name": "The Next Web"
+          },
+          "author": "Thomas Macaulay",
+          "title": "EU member states approve world-first AI law",
+          "description": "The European Union’s member states have finally approved the world’s first comprehensive AI regulation. Ambassadors from all 27 countries reached a deal on the landmark AI Act today. The final text on the harmonised rules was agreed after lengthy negotiations…",
+          "url": "https://thenextweb.com/news/eu-approves-ai-act",
+          "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F01%2FUntitled-design-3-2.jpg&signature=a91dd80be5e624765da95b41d4d50e4f",
+          "publishedAt": "2024-02-02T15:17:22Z",
+          "content": "The European Unions member states have finally approved the worlds first comprehensive AI regulation.\r\nAmbassadors from all 27 countries reached a deal on the landmark AI Act today. The final text on… [+2315 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Bradley Brownell",
+          "title": "This Sonar Splotch Could Be Amelia Earhart's Lost Plane",
+          "description": "Amelia Earhart was declared dead in January of 1939, two years after her around-the-world flight in her Lockheed Electra 10E Special ended in an unsolved disappearance. Earhart was the world’s most accomplished and famed female pilot in 1937, and her ill-fate…",
+          "url": "https://gizmodo.com/this-sonar-splotch-could-be-amelia-earharts-lost-plane-1851206764",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/91a43b8d7e350ad110db7966ba1cc0a1.png",
+          "publishedAt": "2024-01-29T20:41:00Z",
+          "content": "Amelia Earhart was declared dead in January of 1939, two years after her around-the-world flight in her Lockheed Electra 10E Special ended in an unsolved disappearance. Earhart was the worlds most ac… [+2335 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "George Dvorsky",
+          "title": "Pentagon Seeks Direct Control Over Elon’s Big Rocket for Select Missions",
+          "description": "SpaceX’s Starship is poised to be the most coveted launch vehicle in the world once it’s finally up and running, but the Pentagon is hoping to take things a step further by grabbing full control of the megarocket for critically important missions.Read more...",
+          "url": "https://gizmodo.com/spacex-starship-pentagon-elon-musk-classified-missions-1851216022",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ac46b6bdfd5a76d060ba64e138a64cab.jpg",
+          "publishedAt": "2024-02-01T17:09:00Z",
+          "content": "SpaceXs Starship is poised to be the most coveted launch vehicle in the world once its finally up and running, but the Pentagon is hoping to take things a step further by grabbing full control of the… [+4201 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Isaac Schultz",
+          "title": "Dramatic Iceland Eruption Photos Show Lava Spreading Across Pristine Snow",
+          "description": "Southwestern Iceland has been a world transformed over the last few months, as initial tremors gave way to a full-throated volcanic eruption. The fishing village of Grindavík was evacuated in November, along with popular tourist destinations like the country’…",
+          "url": "https://gizmodo.com/iceland-volcano-lava-photos-blue-lagoon-2024-1851238879",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7117d7fd670706f48993de757f3b7465.jpg",
+          "publishedAt": "2024-02-08T17:42:00Z",
+          "content": "Southwestern Iceland has been a world transformed over the last few months, as initial tremors gave way to a full-throated volcanic eruption. The fishing village of Grindavík was evacuated in Novembe… [+1001 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Sabina Graves",
+          "title": "The Master of the Universe Movie Is Back On, Again",
+          "description": "It seems that by the power of Greyskull, the Master of the Universe movie is back on! New developments have been publicized by Deadline, revealing that Laika ceo and President Travis Knight has pitched his take on the Mattel franchise. Travis is no stranger t…",
+          "url": "https://gizmodo.com/master-of-the-universe-movie-travis-knight-he-man-1851253651",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0d419d0700827ad2267a5afb569ad630.jpg",
+          "publishedAt": "2024-02-13T22:30:00Z",
+          "content": "It seems that by the power of Greyskull, the Master of the Universe movie is back on! New developments have been publicized by Deadline, revealing that Laika ceo and President Travis Knight has pitch… [+1388 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Germain Lussier",
+          "title": "Super7's Awesome Godzilla Minus One Figure Is Getting a Black and White Version, Too",
+          "description": "The world was already a pretty excellent place for Godzilla fans considering a) Godzilla Minus One exists and is in theaters, and b) its black and white version, Godzilla Minus One/Minus Color, is also in now in theaters for a limited time. One thing could ma…",
+          "url": "https://gizmodo.com/godzilla-minus-one-figure-black-white-toho-super7-kaiju-1851199202",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfa9cf6db7dc561633c605eea20d1ead.jpg",
+          "publishedAt": "2024-01-26T18:00:00Z",
+          "content": "The world was already a pretty excellent place for Godzilla fans considering a) Godzilla Minus One exists and is in theaters, and b) its black and white version, Godzilla Minus One/Minus Color, is al… [+1525 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Passant Rabie",
+          "title": "Double Plumes Spotted on Jupiter's Cantankerous Volcanic Moon",
+          "description": "NASA’s Juno spacecraft captured new images of Jupiter’s moon Io during its latest flyby, coming within an eerily close distance of the most volcanically active world in the solar system for a second time in less than two months. The close encounter also shows…",
+          "url": "https://gizmodo.com/nasa-juno-io-volcanic-moon-double-plumes-jupiter-1851236078",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ec79721a4b2e123d3c98df9025daa73f.jpg",
+          "publishedAt": "2024-02-08T10:00:00Z",
+          "content": "NASAs Juno spacecraft captured new images of Jupiters moon Io during its latest flyby, coming within an eerily close distance of the most volcanically active world in the solar system for a second ti… [+2976 chars]"
+      },
+      {
+          "source": {
+              "id": "the-next-web",
+              "name": "The Next Web"
+          },
+          "author": "Siôn Geschwindt",
+          "title": "Nuclear fusion world record a promising step toward limitless energy",
+          "description": "In its last hurrah before being shut down, a 40-year-old fusion reactor in the UK set a new world record for energy output — bringing the decades-old promise of clean, limitless energy one step closer to reality. Scientists at the Joint European Torus (JET) —…",
+          "url": "https://thenextweb.com/news/nuclear-fusion-world-record",
+          "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FJET-fusion-energy-world-record.jpg&signature=0a6ef7e063a3f5a3bbec745c4d58793d",
+          "publishedAt": "2024-02-09T10:51:44Z",
+          "content": "In its last hurrah before being shut down, a 40-year-old fusion reactor in the UK set a new world record for energy output bringing the decades-old promise of clean, limitless energy one step closer … [+6045 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NPR"
+          },
+          "author": "Gabino Iglesias",
+          "title": "In 'Martyr!,' an endless quest for purpose in a world that can be cruel and uncaring",
+          "description": "Engaging and wildly entertaining, Kaveh Akbar's debut novel will undoubtedly be considered one of the best of the year because it focuses on very specific stories while discussing universal feelings.",
+          "url": "https://www.npr.org/2024/01/29/1227116232/book-review-martyr-by-kaveh-akbar",
+          "urlToImage": "https://media.npr.org/assets/img/2024/01/29/martyr_wide-47d3e7af9e005ae54f7ca78a92587984fc8169f5-s1400-c100.jpg",
+          "publishedAt": "2024-01-29T18:59:00Z",
+          "content": "Kaveh Akbar's poetry has been published in places like The New Yorker, The New York Times, and Paris Review and his work has received a lot of critical acclaim as well as several prestigious awards.\r… [+4780 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NPR"
+          },
+          "author": "Emma Bowman",
+          "title": "The 2026 World Cup final will take place at New Jersey's MetLife Stadium",
+          "description": "The complex home to the New York Jets and Giants and located in East Rutherford, N.J., will be renamed the New York New Jersey Stadium during the July 19 final.",
+          "url": "https://www.npr.org/2024/02/04/1229073496/2026-world-cup-final-nyc-nj-metlife-stadium",
+          "urlToImage": "https://media.npr.org/assets/img/2024/02/04/ap24023779421899_wide-beb36f4e59eeb83d39cf2e07ff1bde075e76949c-s1400-c100.jpg",
+          "publishedAt": "2024-02-05T02:05:37Z",
+          "content": "The 2026 World Cup final will be played at MetLife Stadium in East Rutherford, N.J., on July 19, FIFA announced on Sunday.\r\nSeth Wenig/AP\r\nThe 2026 World Cup final will take place at New Jersey's Met… [+2248 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NPR"
+          },
+          "author": "Emma Bowman",
+          "title": "At 79, she reached her goal to visit every country in the world",
+          "description": "Luisa Yu spent the past five decades plotting to see all 193 U.N.-recognized countries. To realize her dream, she faced numerous visa hurdles and, later in life, made a career change.",
+          "url": "https://www.npr.org/2024/02/12/1230658303/world-traveler-every-un-country-luisa-yu",
+          "urlToImage": "https://media.npr.org/assets/img/2024/02/11/luisa_wide-5107e9ab9d808eac5ebde22f0bac3a3a4a1d137e-s1400-c100.jpg",
+          "publishedAt": "2024-02-12T10:00:11Z",
+          "content": "When it comes to her passion for travel, Luisa Yu doesn't take no for an answer. If she did, she might not have tried dog meat in North Korea, or glimpsed the pristine beaches of Somalia or skydived … [+3733 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Kieran Press-Reynolds",
+          "title": "No, the Ultimate World Cruise won't be ending early because of Red Sea chaos",
+          "description": "\"Royal Caribbean's Ultimate World Cruise will continue its current schedule as planned,\" a company spokesperson told BI.",
+          "url": "https://www.businessinsider.com/royal-caribbean-ultimate-world-cruise-rumors-suez-canal-red-sea-2024-1",
+          "urlToImage": "https://i.insider.com/65a840e86979d7371824207a?width=1200&format=jpeg",
+          "publishedAt": "2024-01-17T21:38:26Z",
+          "content": "The Ultimate World Cruise is still scheduled for 274 total nights.Royal Caribbean International\r\n<ul><li>Rumors have circulated that the much-talked-about Ultimate World Cruise could end early.</li><… [+2845 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Erin Snodgrass",
+          "title": "Houthi attacks in the Red Sea are now wrecking world cruisers' vacation plans",
+          "description": "Several major cruise lines in have announced reroutings and entire cancellations as Houthi rebels continue attacks on merchant vessels in the Red Sea.",
+          "url": "https://www.businessinsider.com/houthi-attacks-in-red-sea-are-wrecking-world-cruisers-vacations-2024-1",
+          "urlToImage": "https://i.insider.com/65b9a712ac2de4f17ee60f8e?width=1200&format=jpeg",
+          "publishedAt": "2024-01-31T02:56:21Z",
+          "content": "A Carnival cruise ship.RHONA WISE/AFP via Getty Images\r\n<ul><li>The cruise industry is being hit by ongoing Houthi attacks in the Red Sea.</li><li>Several major cruise lines have announced reroutings… [+2745 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Jyoti Mann",
+          "title": "Microsoft CEO Satya Nadella worries hackers could cause a 'breakdown of world order'",
+          "description": "Satya Nadella said there's a real risk of a \"breakdown of world order\" if nations don't come up with a cyber \"Geneva Convention.\"",
+          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-worried-about-breakdown-world-order-2024-1",
+          "urlToImage": "https://i.insider.com/65ba2a46ac2de4f17ee6160d?width=1200&format=jpeg",
+          "publishedAt": "2024-01-31T12:22:16Z",
+          "content": "Microsoft CEO Satya Nadella.Stephen Brashear/Getty Images\r\n<ul><li>Satya Nadella warned there could be a \"breakdown of world order\" in an interview with NBC News.</li><li>The Microsoft CEO said that'… [+2283 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Alex Bitter",
+          "title": "The world is turning on American fast food, from McDonald's to Starbucks, amid Middle East unrest",
+          "description": "McDonald's is the latest big American brand to report that boycotts related to Israel's invasion of Gaza are taking a toll on sales.",
+          "url": "https://www.businessinsider.com/world-turning-on-us-food-brands-mcdonalds-starbucks-israel-gaza-2024-2",
+          "urlToImage": "https://i.insider.com/65c0feb47a3d271488779929?width=1200&format=jpeg",
+          "publishedAt": "2024-02-05T17:57:47Z",
+          "content": "McDonald's is the latest US brand to report a hit to sales related to unrest in the Middle East.Nikos Oikonomou/Anadolu via Getty Images\r\n<ul><li>Boycotts stemming from Israel's invasion of Gaza hit … [+2142 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Devindra Hardawar",
+          "title": "Sundance documentary Eternal You shows how AI companies are ‘resurrecting’ the dead",
+          "description": "A woman has a text chat with her long-dead lover. A family gets to hear a deceased elder speak again. A mother gets another chance to say goodbye to her child, who died suddenly, via a digital facsimile. This isn't a preview of the next season of Black Mirror…",
+          "url": "https://www.engadget.com/sundance-documentary-eternal-you-shows-how-ai-companies-are-resurrecting-the-dead-153025316.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/et4paqwgKu7cCDCJudVTdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/49ed13e2-bc55-11ee-9bff-75ebe0f133fd",
+          "publishedAt": "2024-01-26T15:30:25Z",
+          "content": "A woman has a text chat with her long-dead lover. A family gets to hear a deceased elder speak again. A mother gets another chance to say goodbye to her child, who died suddenly, via a digital facsim… [+7272 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Linette Lopez",
+          "title": "China's rapidly dwindling future will shape the world for decades to come",
+          "description": "Xi Jinping has trapped China in a deep 'psychological funk' that could ruin its economy and wreck its geopolitical ambition.",
+          "url": "https://www.businessinsider.com/china-economy-shrinking-xi-jinping-debt-real-estate-american-world-2024-1",
+          "urlToImage": "https://i.insider.com/65aade4e43bb77284b9ecf21?width=1200&format=jpeg",
+          "publishedAt": "2024-01-21T11:22:01Z",
+          "content": "PLACEHOLDERTyler Le/Insider\r\n2024 is the year of the incredible shrinking ChinaThe country's growth has been treated like an inevitability for decades. Everything was getting bigger — its cultural in… [+12898 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Sarah Elkasaby",
+          "title": "11 of the most dangerous and expensive mining expeditions in the world",
+          "description": "Stones, salts, crystals, and other natural resources are worth millions of dollars. But getting to them is no easy feat.",
+          "url": "https://www.businessinsider.com/dangerous-expensive-mining-expeditions-in-world-2024-1",
+          "urlToImage": "https://i.insider.com/65a6aae6dcdb354a9857cd62?width=1200&format=jpeg",
+          "publishedAt": "2024-01-18T14:09:39Z",
+          "content": "In Uruguay, Renato sets off an explosive to reveal an ancient, glittery stone: amethyst. In Italy, Enrico cuts slabs off of one of the most expensive marbles in the world: Calacatta. Stones, salts, c… [+562 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Huileng Tan",
+          "title": "What the collapse of a company owing $300 billion means for the world",
+          "description": "Evergrande, China's biggest real-estate developer, is being liquidated. It has assets worth about $245 billion, but owes about $300 billion.",
+          "url": "https://www.businessinsider.com/china-evergrande-property-real-estate-crisis-debts-collapse-what-happens-2024-2",
+          "urlToImage": "https://i.insider.com/65bb351fac2de4f17ee67eda?width=1200&format=jpeg",
+          "publishedAt": "2024-02-03T12:34:01Z",
+          "content": "An Evergrande residential complex in Beijing.Pedro Pardo/AFP/Getty Images\r\n<ul><li>A Hong Kong court ordered the liquidation of China Evergrande, the world's most indebted property developer.</li><li… [+7054 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Catherine Boudreau",
+          "title": "Google is making a map of methane leaks for the whole world to see",
+          "description": "Google will use satellite data, AI, and its computing power to map methane emissions around the globe. The transparency marks a new era in climate accountability.",
+          "url": "https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2",
+          "urlToImage": "https://i.insider.com/65cbe93b6fcb546d2d4f7fb2?width=1200&format=jpeg",
+          "publishedAt": "2024-02-15T10:30:01Z",
+          "content": "Google expects to make its methane map public later this year.Google\r\n<ul><li>Google will use satellite data, AI technology, and its computing power to map methane emissions.</li><li>Methane is a pot… [+4845 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Ash Parrish",
+          "title": "The Pokémon Company says it will ‘investigate’ Palworld",
+          "description": "In a statement, The Pokémon Company said it is aware of Palworld and will “address any acts that infringe on intellectual property rights related to the Pokémon.”",
+          "url": "https://www.theverge.com/2024/1/25/24050320/pokemon-palworld-investigation-copyright-plagiarism",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/tvbtlA8t40EUkg5DPESDayVzaQs=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25248518/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.1920x1080.jpg",
+          "publishedAt": "2024-01-25T20:27:47Z",
+          "content": "Image: Pocketpair\r\n\n \n\n You can all stop calling now — The Pokémon Company’s lawyers are on the case. In a statement posted on the company’s website, The Pokémon Company says it’s aware of a “game re… [+2156 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Jessica Conditt",
+          "title": "Esports are messy in 2024 | This week's gaming news",
+          "description": "With the news that Blizzard and ESL FACEIT are preparing to launch a new esports circuit for Overwatch 2, mere months after the death of the Overwatch League, it's a good time to take stock of the entire esports scene. Things are looking slightly frantic, at …",
+          "url": "https://www.engadget.com/esports-are-messy-in-2024-this-weeks-gaming-news-170043963.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OjXhuawXYC3PM4h3A9rC5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/f0d9bef0-bad0-11ee-a5de-53ee63e84933",
+          "publishedAt": "2024-01-24T17:00:43Z",
+          "content": "With the news that Blizzard and ESL FACEIT are preparing to launch a new esports circuit for Overwatch 2, mere months after the death of the Overwatch League, it's a good time to take stock of the en… [+5268 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Will Shanklin",
+          "title": "Dave the Diver is bringing Godzilla with him to PS5 this spring",
+          "description": "Dave the Diver is coming to PS5 and PS4. The 2023 breakout hit won Indie Game of the Year at The Game Awards — stretching the definition of “indie” — and was included in Engadget’s Best Games of 2023. It arrives on Sony’s consoles in April, and a Godzilla cro…",
+          "url": "https://www.engadget.com/dave-the-diver-is-bringing-godzilla-with-him-to-ps5-this-spring-233136441.html",
+          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-01/26c253b0-c08f-11ee-afdf-f81881f374ed",
+          "publishedAt": "2024-01-31T23:31:36Z",
+          "content": "Dave the Diver is coming to PS5 and PS4. The 2023 breakout hit won Indie Game of the Year at The Game Awards stretching the definition of indie and was included in Engadgets Best Games of 2023. It ar… [+1183 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Benj Edwards",
+          "title": "A “robot” should be chemical, not steel, argues man who coined the word",
+          "description": "Čapek: \"The world needed mechanical robots, for it believes in machines more than it believes in life.\"",
+          "url": "https://arstechnica.com/information-technology/2024/01/a-robot-should-be-chemical-not-steel-argues-man-who-coined-the-word/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/rur_hero_2-760x380.jpg",
+          "publishedAt": "2024-01-23T23:15:43Z",
+          "content": "0\r\nIn 1921, Czech playwright Karel apek and his brother Josef invented the word \"robot\" in a sci-fi play called R.U.R. (short for Rossum's Universal Robots). As Even Ackerman in IEEE Spectrum points … [+4437 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Aarian Marshall",
+          "title": "Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies",
+          "description": "A low-cost model of Tesla will launch in 2024, CEO Elon Musk told investors. It could help the EV maker compete with BYD and other surging Chinese automakers.",
+          "url": "https://www.wired.com/story/elon-musk-says-cheaper-tesla-coming-2025/",
+          "urlToImage": "https://media.wired.com/photos/65b1b0066a5811e486fd818f/191:100/w_1280,c_limit/Elon-Musk-Tesla-Earnings-Business-1760546699.jpg",
+          "publishedAt": "2024-01-25T02:16:56Z",
+          "content": "A cheaper model of Tesla electric vehicle is coming late next year, CEO Elon Musk told investors today. If it launches on Musks ambitious timeline, it might arrive in time to help Tesla parry the gro… [+3025 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Ryan Roslansky",
+          "title": "The AI-Fueled Future of Work Needs Humans More Than Ever",
+          "description": "AI is elbowing its way into ever more jobs, but while how we work will change, people skills will still be the most important factor.",
+          "url": "https://www.wired.com/story/the-ai-fueled-future-of-work-needs-humans-more-than-ever/",
+          "urlToImage": "https://media.wired.com/photos/65b1785b72d610707cc3c3eb/191:100/w_1280,c_limit/WW2024_1407293739_BIZ_Ryan-Roslansky-final.jpg",
+          "publishedAt": "2024-01-26T12:00:00Z",
+          "content": "Much like the internet did in the 1990s, AI is going to change the very definition of work. While change can be scary, if the last three years taught us anything, it can also be an opportunity to rei… [+3500 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Matt Burgess, Dhruv Mehrotra",
+          "title": "China’s Hackers Keep Targeting US Water and Electricity Supplies",
+          "description": "Plus: Russia was likely behind widespread GPS outages, Vault 7 leaker was sentenced, police claim to trace Monero cryptocurrency, and more.",
+          "url": "https://www.wired.com/story/china-hackers-us-water-electricity-moreno-vault-7/",
+          "urlToImage": "https://media.wired.com/photos/65bd1c471d8a9e5e83f03f22/191:100/w_1280,c_limit/China%E2%80%99s-Hackers-Keep-Targeting-US-Water-and-Electricity-Supplies-Security-GettyImages-1784871790.jpg",
+          "publishedAt": "2024-02-03T14:00:00Z",
+          "content": "An indictment from the US Department of Justice may have solved the mystery of how disgraced cryptocurrency exchange FTX lost over $400 million in crypto. The indictment, filed last week, alleges tha… [+3401 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Megan Farokhmanesh",
+          "title": "'Palworld': How 'Pokémon With Guns' Became an Overnight Hit",
+          "description": "Pocket Pair’s \"Palworld\" has ridden a wave of internet-fueled fascination to 5 million games sold and thousands of Twitch streams.",
+          "url": "https://www.wired.com/story/palworld-pokemon-with-guns-steam-success/",
+          "urlToImage": "https://media.wired.com/photos/65aecddf22aa647640de5c71/191:100/w_1280,c_limit/Pokemon-With-Guns-Culture-VS_MAMMOREST_Gun.jpg",
+          "publishedAt": "2024-01-22T23:27:24Z",
+          "content": "In the grass ahead lurks a cotton-ball puff of a creature with stubby appendages, round, yellow eyes, and a macaroni-noodle smile. Appropriately named Lamball, it is one of many island creatures that… [+2818 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Brittany Chang",
+          "title": "9 new around-the-world cruises have joined Royal Caribbean's Ultimate World Cruise at sea. See what they're like — from a sold-out 6-month luxury cruise to a cheaper $21,100 option.",
+          "description": "All eyes have been on Royal Caribbean's ongoing nine-month Ultimate World Cruise. Nine others have set sail so far in 2024 — take a look.",
+          "url": "https://www.businessinsider.com/around-the-world-monthslong-cruises-princess-oceania-royal-ultimate-cunard-2024-1",
+          "urlToImage": "https://i.insider.com/65a7f77e43bb77284b9dbb89?width=1200&format=jpeg",
+          "publishedAt": "2024-01-21T10:11:01Z",
+          "content": "Nine world cruises from eight different operators have already set sail in the New Year.Oceania Cruises\r\n<ul><li>Nine new around-the-world cruises have already set sail in 2024.</li><li>These ships j… [+7039 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Themarginalian.org"
+          },
+          "author": "Maria Popova",
+          "title": "How to Make a World: A Poem",
+          "description": "Like mathematics, the truest metaphors are not invented but discovered. In fact, they hardly feel like metaphors — they feel like equations equating something previously unseen with something familiar in order to see more deeply into the nature of reality. On…",
+          "url": "https://www.themarginalian.org/2024/01/28/how-to-make-a-world/",
+          "urlToImage": "https://www.themarginalian.org/wp-content/uploads/2024/01/copicing-scaled.jpg?fit=1200%2C675&ssl=1",
+          "publishedAt": "2024-01-28T21:33:58Z",
+          "content": "Like mathematics, the truest metaphors are not invented but discovered. In fact, they hardly feel like metaphors — they feel like equations equating something previously unseen with something familia… [+1203 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Steven Levy",
+          "title": "OpenAI’s Sora Turns AI Prompts Into Photorealistic Videos",
+          "description": "OpenAI's entry into generative AI video is an impressive first step.",
+          "url": "https://www.wired.com/story/openai-sora-generative-ai-video/",
+          "urlToImage": "https://media.wired.com/photos/65ce4db5f6a6fe51748b141f/191:100/w_1280,c_limit/021524-business-open-ai-sora-text-to-video.jpg",
+          "publishedAt": "2024-02-15T18:15:00Z",
+          "content": "We already know that OpenAIs chatbots can pass the bar exam without going to law school. Now, just in time for the Oscars, a new OpenAI app called Sora hopes to master cinema without going to film sc… [+6013 chars]"
+      },
+      {
+          "source": {
+              "id": "time",
+              "name": "Time"
+          },
+          "author": "Simmone Shah",
+          "title": "How the World Is Reacting to King Charles’ Cancer Diagnosis",
+          "description": "Leaders around the world have been sharing messages of support for King Charles III after Buckingham Palace announced Monday that he had been diagnosed with cancer.",
+          "url": "https://time.com/6691735/king-charles-cancer-diagnosis-world-reactions/",
+          "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/king-charles.jpg?quality=85",
+          "publishedAt": "2024-02-05T22:21:26Z",
+          "content": "Leaders around the world have been sharing messages of support for King Charles III after Buckingham Palace announced Monday that he had been diagnosed with cancer. The 75-year-old King, who recently… [+3164 chars]"
+      },
+      {
+          "source": {
+              "id": "time",
+              "name": "Time"
+          },
+          "author": "Tom Odula, Mutwiri Mutuota, and Gerald Imray / AP",
+          "title": "Marathon World Record-Holder Kelvin Kiptum Dies in Car Crash",
+          "description": "Kiptum, who was a top contender for gold at the Olympics in Paris this year, was killed along with his coach in a car crash in Kenya.",
+          "url": "https://time.com/6693889/marathon-record-holder-kelvin-kiptum-dies/",
+          "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1724503058.jpg?quality=85",
+          "publishedAt": "2024-02-12T11:56:25Z",
+          "content": "NAIROBI, Kenya Marathon world record-holder Kelvin Kiptum, who was set to be a superstar of long-distance running and was a top contender for gold at the Olympics in Paris this year, was killed along… [+4657 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ReadWrite"
+          },
+          "author": "Paul McNally",
+          "title": "Microsoft Flight Simulator World Update 16 takes you to the Caribbean",
+          "description": "Since its release in 2020, Microsoft Flight Simulator has undergone an intensive update program from devs Asabo and Microsoft Game […]\nThe post Microsoft Flight Simulator World Update 16 takes you to the Caribbean appeared first on ReadWrite.",
+          "url": "https://readwrite.com/microsoft-flight-simulator-world-update-16-takes-you-to-the-caribbean/",
+          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/msfs_wu16.jpg",
+          "publishedAt": "2024-01-31T10:23:12Z",
+          "content": "Since its release in 2020, Microsoft Flight Simulator has undergone an intensive update program from devs Asabo and Microsoft Game Studios. We have had Sim Updates and World Updates, and somewhere al… [+2154 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Pranav Dixit",
+          "title": "Disney is investing $1.5 billion in Epic Games to create a 'games and entertainment universe'",
+          "description": "Disney will invest $1.5 billion in Epic Games, the creator of Fortnite, the company announced on Wednesday. As part of the initiative, Disney and Epic Games will create a brand new “games and entertainment universe” over the next few years, Disney said in a s…",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82095eb4-4444-4d5f-8e16-d6d6d20274f1",
+          "urlToImage": null,
+          "publishedAt": "2024-02-07T21:50:15Z",
+          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Lawrence Bonk",
+          "title": "Spider-Man 2's delayed New Game+ mode is coming on March 7",
+          "description": "Insomniac Games has long-promised a New Game+ mode for its hit superhero sim Marvel’s Spider-Man 2 and it’s arriving on March 7\r\n.\r\n The mode was supposed to drop at the tail-end of 2023, but was delayed until 2024.\r\n The forthcoming update won’t just be abou…",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e473ef30-6d43-42ea-9e37-71927fb253ca",
+          "urlToImage": null,
+          "publishedAt": "2024-02-07T19:35:43Z",
+          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Sarah Fielding",
+          "title": "X will host a new 'WWE Speed' weekly series starting in the spring",
+          "description": "WWE has been shaking up its broadcast platforms recently, with the latest development coming via a partnership with X, formerly known as Twitter. The pair have signed a two-year deal for a new weekly series called WWE Speed, according to The Hollywood Reporte…",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_33dbc299-25d3-4ae1-ad24-156d08023033",
+          "urlToImage": null,
+          "publishedAt": "2024-02-09T10:30:13Z",
+          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Steve Dent",
+          "title": "Nothing's Phone 2a will debut on March 5",
+          "description": "Nothing announced that it will reveal its latest Phone 2a on March 5th, but there's a not-great surprise for American fans of the product. Rather than being released officially like the Phone 2, the device will come to the US as part of a \"developer program.\"…",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_22569972-d53e-4736-837d-d5c1224bd581",
+          "urlToImage": null,
+          "publishedAt": "2024-02-13T12:35:59Z",
+          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 242 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ReadWrite"
+          },
+          "author": "Paul McNally",
+          "title": "BG3 Patch 6 arrives – what’s in the giant 20,000 world patch notes?",
+          "description": "We have been expecting the sixth patch for Baldur’s Gate 3 all week. We expected it around Valentine’s Day, due […]\nThe post BG3 Patch 6 arrives – what’s in the giant 20,000 world patch notes? appeared first on ReadWrite.",
+          "url": "https://readwrite.com/bg3-patch-6-arrives-whats-in-the-giant-20000-world-patch-notes/",
+          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/bg3-scaled.jpg",
+          "publishedAt": "2024-02-16T13:14:15Z",
+          "content": "We have been expecting the sixth patch for Baldurs Gate 3 all week. We expected it around Valentines Day, due largely to the inference that romancing your BG3 sweethearts was to be improved with new … [+2697 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hackaday"
+          },
+          "author": "Lewin Day",
+          "title": "Check Out These Amazing Self-Soldering Sleeves From World War II",
+          "description": "Imagine you’re a commando, doing some big secret mission on the continent in the midst of World War II. You need to hook up some wires to your explosive charges, and time is of the essence. D…",
+          "url": "https://hackaday.com/2024/01/31/check-out-these-amazing-self-soldering-sleeves-from-world-war-ii/",
+          "urlToImage": "https://hackaday.com/wp-content/uploads/2024/01/SHORT_-WWII-SOE-Self-Soldering-Sleeves-3-20-screenshot.png",
+          "publishedAt": "2024-02-01T03:00:22Z",
+          "content": "Imagine you’re a commando, doing some big secret mission on the continent in the midst of World War II. You need to hook up some wires to your explosive charges, and time is of the essence. Do you bu… [+1198 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Angela Watercutter",
+          "title": "Live TV Is the New Streaming",
+          "description": "Jon Stewart is back, and Super Bowl 2024 had 123 million US viewers. Live TV is making a comeback, and it has streaming to thank.",
+          "url": "https://www.wired.com/story/super-bowl-123-million-viewers-live-tv-streaming/",
+          "urlToImage": "https://media.wired.com/photos/65ce6d324b8e8302c85d15e2/191:100/w_1280,c_limit/Live-TV-Had-A-Good-Week-Culture-JON_DESK_S29E001_021224_MW_0004.jpg",
+          "publishedAt": "2024-02-16T15:00:00Z",
+          "content": "Biggest audience since the moon landing. That was the headline when Nielsen released viewership numbers for Super Bowl 2024. About 123.7 million people in the US watched the game, more than any other… [+4230 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Steven Levy",
+          "title": "Kara Swisher Is Sick of Tech People, So She Wrote a Book About Them",
+          "description": "Silicon Valley’s top pundit dishes on her memoir Burn Book, immature billionaires, and whether she’s actually mean.",
+          "url": "https://www.wired.com/story/kara-swisher-burn-book/",
+          "urlToImage": "https://media.wired.com/photos/65cd2e70640589f91cb0070f/191:100/w_1280,c_limit/BC-kara_swisher_0767.jpg",
+          "publishedAt": "2024-02-15T11:00:00Z",
+          "content": "In her new memoir, Burn Book, Kara Swisher cites a 2014 profile that dubbed her Silicon Valleys Most Feared and Well-Liked Journalist. She might prefer to downplay the first and emphasize the second.… [+4017 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Matt Simon",
+          "title": "NASA’s New PACE Observatory Searches for Clues to Humanity’s Future",
+          "description": "They may be tiny, but phytoplankton and aerosols power pivotal Earth systems. Scientists are about to learn a whole lot more about them at a critical time.",
+          "url": "https://www.wired.com/story/nasas-pace-observatory-launch-spacex-aerosols-plankton/",
+          "urlToImage": "https://media.wired.com/photos/65c151f4782476f87d220988/191:100/w_1280,c_limit/PACE-Launch-Science-GSFC_20231031_PACE_030760_2000w.jpg",
+          "publishedAt": "2024-02-08T16:15:56Z",
+          "content": "Way up in the sky and sprinkled across the seas, two of the littlest yet most influential things in the world have stubbornly guarded their secrets: aerosols and phytoplankton. Today, NASA launched i… [+4014 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Worldradiohistory.com"
+          },
+          "author": null,
+          "title": "World Radio History Archive",
+          "description": "WorldRadioHistory: Thousands of Radio Music Electronics Publications ALL FREE",
+          "url": "https://www.worldradiohistory.com/index.htm",
+          "urlToImage": null,
+          "publishedAt": "2024-02-13T05:56:21Z",
+          "content": "<tr><td><table><tr><td></td><td>Broadcasting MagazineThe most respected business magazine in the industry.1931-2001</td><td></td><td>\r\nR &amp; \r\nRRadio \r\nand \r\nRecords\r\nMusic \r\nand \r\nradio industry \r… [+22541 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Jessica Conditt",
+          "title": "Diablo IV will be the first Activision Blizzard title on Xbox Game Pass",
+          "description": "The first Activision Blizzard game to join Xbox Game Pass will be Diablo IV, and it's due to land on March 28. The move means Diablo IV will be playable on Xbox and PC at no extra charge to Game Pass members — of which there are 34 million, Xbox announced tod…",
+          "url": "https://www.engadget.com/diablo-iv-will-be-the-first-activision-blizzard-title-on-xbox-game-pass-204734655.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MqexRz2eS7dCfzgITZ7MBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/47c9bd30-cc44-11ee-bfcb-e051ec47e38a",
+          "publishedAt": "2024-02-15T20:47:35Z",
+          "content": "The first Activision Blizzard game to join Xbox Game Pass will be Diablo IV, and it's due to land on March 28. The move means Diablo IV will be playable on Xbox and PC at no extra charge to Game Pass… [+1697 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Steve Dent",
+          "title": "Taylor Swift and other Universal Music tracks are disappearing from TikTok",
+          "description": "After threatening\r\n to do so earlier this week, Universal Music Group (UMG) has started pulling the catalogs of performers it represents including Taylor Swift, Drake, Billie Eilish, The Weeknd and others. There are no longer tracks listed in profiles of some…",
+          "url": "https://www.engadget.com/taylor-swift-and-other-universal-music-tracks-are-disappearing-from-tiktok-134536998.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MEdKuIJ42..IQu8E3dVo1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/383a82e0-c105-11ee-bcd7-2579104b4fd2",
+          "publishedAt": "2024-02-01T13:45:36Z",
+          "content": "After threatening\r\n to do so earlier this week, Universal Music Group (UMG) has started pulling the catalogs of performers it represents including Taylor Swift, Drake, Billie Eilish, The Weeknd and o… [+1335 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Julian Chokkattu",
+          "title": "OnePlus 12 Review: Perfectly Polished Hardware",
+          "description": "OnePlus’ new $800 Android phone has all the specs you’d want, and looks very polished to boot.",
+          "url": "https://www.wired.com/review/oneplus-12/",
+          "urlToImage": "https://media.wired.com/photos/65af0355a73d6dedff595b7d/191:100/w_1280,c_limit/Gear-OnePlus-12-SOURCE-Julian-Chokkattu.jpg",
+          "publishedAt": "2024-01-23T15:00:00Z",
+          "content": "At Samsung's Galaxy Unpacked event last week, the spotlight was on #GalaxyAI, the Google-powered artificial intelligence inside Samsung's new Galaxy S24 smartphones. The hardware took a backseat. One… [+2898 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Makena Kelly",
+          "title": "Why RFK Jr. Is Suddenly Everywhere Online",
+          "description": "The internet has become RFK Jr.’s campaign headquarters, where likes and shares have replaced more traditional election outreach.",
+          "url": "https://www.wired.com/story/rfk-jr-presidential-campaign-online/",
+          "urlToImage": "https://media.wired.com/photos/65c2bfe668dd9000e4092c7d/191:100/w_1280,c_limit/politics_robert_kennedy_jr_everywhere_online.jpg",
+          "publishedAt": "2024-02-07T12:00:00Z",
+          "content": "But none of these celebrity endorsements and events would matter if they werent expertly photographed and packaged for social media pushes. In campaign emails to supporters, the Kennedy campaign asks… [+3212 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Seths.blog"
+          },
+          "author": "Seth Godin",
+          "title": "Out to get you",
+          "description": "It’s easy to believe that in some moments, the world is out to get you. This is unlikely. The world hardly knows you exist. There is injustice and trauma and systems of caste. There are tiny pockets of humanity that hold a grudge. But most of the time, in mos…",
+          "url": "https://seths.blog/2024/01/out-to-get-you/",
+          "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061312.jpg",
+          "publishedAt": "2024-01-20T09:13:00Z",
+          "content": "It’s easy to believe that in some moments, the world is out to get you.\r\nThis is unlikely. The world hardly knows you exist.\r\nThere is injustice and trauma and systems of caste. There are tiny pocket… [+578 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Devindra Hardawar",
+          "title": "Engadget Podcast: Our Apple Vision Pro hangover",
+          "description": "We still can’t stop thinking about the Apple Vision Pro. This week, Cherlynn and Devindra chat with CNET’s Scott Stein about our post-review impressions of Apple’s headset. We’ve got further thoughts about using it in public (maybe don’t), the isolation of be…",
+          "url": "https://www.engadget.com/engadget-podcast-our-apple-vision-pro-hangover-133021630.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K7moVkrBu8qnX7AtPlzg_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTY-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/2275fd20-c6a7-11ee-9afd-4ffd0b651891",
+          "publishedAt": "2024-02-16T13:30:21Z",
+          "content": "We still cant stop thinking about the Apple Vision Pro. This week, Cherlynn and Devindra chat with CNETs Scott Stein about our post-review impressions of Apples headset. Weve got further thoughts abo… [+1490 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Katy Fleming",
+          "title": "I grew up in the US, while my wife grew up in the UK. She had a better education and now has a better understanding of the world.",
+          "description": "Growing up in the US, she didn't learn about world geography or other cultures in school. Her wife grew up in the UK, where she learned about the world.",
+          "url": "https://www.businessinsider.com/grew-up-us-wife-uk-better-worldly-secular-education-2024-2",
+          "urlToImage": "https://i.insider.com/65ce7e42f533b039a884462c?width=1200&format=jpeg",
+          "publishedAt": "2024-02-16T16:00:04Z",
+          "content": "The author, right, and her wife, left.Holly Ferencuha Photography\r\n<ul><li>I grew up in the US where the educational system was more general. </li><li>I didn't learn about world history or geography,… [+4451 chars]"
+      },
+      {
+          "source": {
+              "id": "ign",
+              "name": "IGN"
+          },
+          "author": "Joshua Yehl",
+          "title": "Disney Lorcana Announces World Championship",
+          "description": "Ravensburger reveals details on the first ever Disney Lorcana TCG competitive events, including the World Championship.",
+          "url": "https://www.ign.com/articles/disney-lorcana-announces-world-championship",
+          "urlToImage": "https://assets-prd.ignimgs.com/2024/01/17/dlc-s3-op-set-champs-playmat-winner-prize1-1705461302682.png?width=1280",
+          "publishedAt": "2024-01-17T14:00:00Z",
+          "content": "Game publisher Ravensburger announced new details about upcoming competitive events for the popular Disney Lorcana Trading Card Game, including the first-ever World Championship in 2025. \r\n As we mov… [+2975 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Luke Littler: Darts sensation hopes to inspire next generation",
+          "description": "'Luke the Nuke' returns to St Helens Darts Academy where he first started playing aged 10.",
+          "url": "https://www.bbc.co.uk/news/uk-england-merseyside-68067803",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4309/production/_132216171_ab55030a851226e634b5f7794070f1a52b027e420_176_3500_19691000x563.jpg",
+          "publishedAt": "2024-01-23T13:49:46Z",
+          "content": "Teenage darts sensation Luke Littler has spoken of his hopes to inspire the next generation of young players. \r\nHe fell just short of becoming the sport's youngest world champion aged 16 when he rece… [+2103 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Amrita Khalid",
+          "title": "Google spent billions of dollars to lay people off",
+          "description": "The search giant spent $2.1 billion on employee severance in 2023, according to its fourth-quarter earnings call, but reported growth across its ad, cloud, and services divisions.",
+          "url": "https://www.theverge.com/2024/1/30/24056132/google-spent-two-billion-on-layoffs-severance-fourth-quarter-earnings-2023",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/PCWtGE2WKBVDNTtfedfmmBDXGV4=/0x0:2040x1360/1200x628/filters:focal(275x538:276x539)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
+          "publishedAt": "2024-01-30T23:40:45Z",
+          "content": "Google spent billions of dollars to lay people off\r\nGoogle spent billions of dollars to lay people off\r\n / The company spent another $700 million on layoffs just this month, even as it recorded growt… [+2787 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Brittany Chang",
+          "title": "Royal Caribbean's 9-month Ultimate World Cruise was a 'pain in the ass' to plan, CEO says",
+          "description": "Royal Caribbean had to sort through logistics like visas, medicals, and even an on-board dentist while planning this nine-month world cruise.",
+          "url": "https://www.businessinsider.com/royal-caribbean-ultimate-world-9-month-cruise-logistics-planning-ceo-2024-1",
+          "urlToImage": "https://i.insider.com/65b802676c8f0a134f7ad93b?width=1200&format=jpeg",
+          "publishedAt": "2024-01-29T21:09:14Z",
+          "content": "\"We had no clue what a pain in the ass a world cruises is,\" Michael Bayley, Royal Caribbean International's president and CEO, told reporters. Joni Hanebutt/Shutterstock\r\n<ul><li>Royal Caribbean's on… [+2572 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Andrew Webster",
+          "title": "Disney invests $1.5 billion in Epic to create ‘persistent universe’ tied to Fortnite",
+          "description": "Disney has announced it is investing $1.5 billion in Fortnite developer Epic as part of a multiyear collaboration.",
+          "url": "https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/8QLTycBDHFJvEOcjU5YDI284NTA=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25272991/Disney_x_Epic_Games___A_New_Universe.png",
+          "publishedAt": "2024-02-07T21:18:16Z",
+          "content": "Disney invests $1.5 billion in Epic to create persistent universe tied to Fortnite\r\nDisney invests $1.5 billion in Epic to create persistent universe tied to Fortnite\r\n / The multiyear collaboration … [+2795 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Katherine Tangalakis-Lippert",
+          "title": "The hottest hotel for elites at the World Economic Forum costs around $120 a night in the states",
+          "description": "Top executives at the World Economic Forum booked rooms with two double beds at the a budget Hilton hotel chain, The Wall Street Journal reported",
+          "url": "https://www.businessinsider.com/world-economic-forum-davos-switzerland-hilton-garden-inn-hot-hotel-2024-1",
+          "urlToImage": "https://i.insider.com/65ac7a97dcdb354a98597288?width=1200&format=jpeg",
+          "publishedAt": "2024-01-21T04:13:31Z",
+          "content": "Elite executives visiting the World Economic Forum clamored for rooms at the budget Hilton Garden Inn in Davos, Switzerland.Alex Tai via Getty Images\r\n<ul><li>Elite executives visited Davos, Switzerl… [+3345 chars]"
+      },
+      {
+          "source": {
+              "id": "the-next-web",
+              "name": "The Next Web"
+          },
+          "author": "Siôn Geschwindt",
+          "title": "ESA embarks on world-first mission to detect ripples in the fabric of space-time",
+          "description": "The European Space Agency (ESA) has approved the Laser Interferometer Space Antenna (LISA) mission, the first scientific endeavour to detect and study cosmic ripples from space.  The launch of LISA is planned for 2035, on an Ariane 6 rocket. The project is ex…",
+          "url": "https://thenextweb.com/news/esa-lisa-mission-gravitational-waves-ripples-space-tech",
+          "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F01%2FLISA_Pathfinder_in_space-ESA-space.jpg&signature=09b081bd66580f33736b84f67507399a",
+          "publishedAt": "2024-01-26T14:19:01Z",
+          "content": "The European Space Agency (ESA) has approved the Laser Interferometer Space Antenna (LISA) mission, the first scientific endeavour to detect and study cosmic ripples from space. \r\nThe launch of LISA … [+3248 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Worksinprogress.co"
+          },
+          "author": null,
+          "title": "Math Built the Modern World",
+          "description": "Mathematics was the cornerstone of the Industrial Revolution. A new paradigm of measurement and calculation, more than scientific discovery, built industry, modernity, and the world we inhabit today.",
+          "url": "https://worksinprogress.co/issue/how-mathematics-built-the-modern-world/",
+          "urlToImage": "https://wip.gatspress.com/wp-content/uploads/2023/11/numeracy_illustration_colour_version_2-scaled.jpg",
+          "publishedAt": "2024-02-01T18:42:52Z",
+          "content": "In school, you might have heard that the Industrial Revolution was preceded by the Scientific Revolution, when Newton uncovered the mechanical laws underlying motion and Galileo learned the true shap… [+38668 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Connie Guglielmo",
+          "title": "AI and You: The Job Debate Continues, Social Media Isn't So Swift Handling Porn Deepfakes - CNET",
+          "description": "Get up to speed on the rapidly evolving world of AI with our roundup of the week's developments.",
+          "url": "https://www.cnet.com/tech/computing/ai-and-you-the-job-debate-continues-social-media-isnt-so-swift-handling-porn-deepfakes/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/20c18a6d3ec130679b248455c16d7976303c056f/hub/2024/01/29/92571579-5cd5-4792-91ed-df1b85be6ef3/gettyimages-1472037495.jpg?auto=webp&fit=crop&height=675&precrop=2563,1440,x0,y0&width=1200",
+          "publishedAt": "2024-01-29T21:25:16Z",
+          "content": "Expect the conversation about how AI technology will affect the future of work and by that, I mean jobs to continue to be a huge topic of debate, optimism and pessimism in the coming months (and next… [+18251 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Connie Guglielmo",
+          "title": "AI and You: The AI Blame Game, Apple Hints at AI, Gen Z OK With AI Costing Coworkers Their Jobs - CNET",
+          "description": "Get up to speed on the rapidly evolving world of AI with our roundup of the week's developments.",
+          "url": "https://www.cnet.com/tech/computing/ai-and-you-the-ai-blame-game-apple-hints-at-ai-gen-z-ok-with-ai-costing-coworkers-their-jobs/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/c24185962eb8baf222c12c83f1dd2f4c28de94a9/hub/2024/02/04/b82b6b99-64d9-4f43-a99d-d8ab09b79b8e/gettyimages-605695785.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2024-02-05T13:00:09Z",
+          "content": "In addition to \"the dog ate my homework,\" \"I didn't see the email\" and \"It's an honest oversight,\" you can now add \"the AI did it\" to the list of excuses people may use to avoid taking responsibility… [+19677 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Quiz of the week: Who led the Vikings in Shetland’s Up Helly Aa fire festival?",
+          "description": "How closely have you been paying attention to what has been going on over the past seven days?",
+          "url": "https://www.bbc.co.uk/news/world-68168938",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15DB2/production/_132522598_mediaitem132522597.jpg",
+          "publishedAt": "2024-02-02T00:24:47Z",
+          "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days? \r\nSome mobile users may experience difficulties. If you cannot se… [+247 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Quiz of the week: Who beat Miley Cyrus to win Song Of The Year at the Grammys?",
+          "description": "How closely have you been paying attention to what has been going on over the past seven days?",
+          "url": "https://www.bbc.co.uk/news/world-68243686",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9BBD/production/_132596893_mediaitem132596892.jpg",
+          "publishedAt": "2024-02-08T17:04:45Z",
+          "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days? \r\nSome mobile users may experience difficulties. If you cannot se… [+247 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Quiz of the week: Who could join Sinead O'Connor in the Rock & Roll Hall of Fame?",
+          "description": "How closely have you been paying attention to what has been going on over the past seven days?",
+          "url": "https://www.bbc.co.uk/news/world-68307095",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB71/production/_132658974_mediaitem132658973.jpg",
+          "publishedAt": "2024-02-15T17:39:52Z",
+          "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days? \r\nSome mobile users may experience difficulties. If you cannot se… [+247 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Eastbourne woman has professional snooker lesson for 101st birthday",
+          "description": "Avid snooker fan Margaret Cope says she is \"amazed\" by the surprise lesson from Mark Davis.",
+          "url": "https://www.bbc.co.uk/news/uk-england-sussex-68006173",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C85/production/_132352158_margaretcope.png",
+          "publishedAt": "2024-01-18T11:15:28Z",
+          "content": "A woman has celebrated her 101st birthday with a snooker lesson from a former professional.\r\nMargaret Cope, who lives in Sycamore Grove Care Home near Eastbourne, East Sussex, had a lesson with Mark … [+1015 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Sabina Graves",
+          "title": "Disney World's Massive Arts Festival Knows Its Fandom Best",
+          "description": "Walt Disney World’s best and most underrated festival is going on right now at Epcot. Disney Parks’ International Festival of the Arts happens at the start of the year and showcases amazing artists debuting Disney-inspired art—and it’s truly any fandom print …",
+          "url": "https://gizmodo.com/disney-parks-epcot-festival-arts-marvel-star-wars-pixar-1851174512",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/98925cf831a5f02e9db1c96c26bebed9.jpg",
+          "publishedAt": "2024-01-18T22:15:00Z",
+          "content": "Walt Disney Worlds best and most underrated festival is going on right now at Epcot. Disney Parks International Festival of the Arts happens at the start of the year and showcases amazing artists deb… [+1804 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Lucas Ropek",
+          "title": "Defeat Clintin the Mini-Boss in Steam’s New ‘Epstein’ Island Game",
+          "description": "A new video game popped up online on Friday, swiftly capturing quite a few people’s attention. The game’s name? “Epstein.” Notably, it’s set on an island. If you progress far enough into the gameplay, you end up fighting Mini-Bosses, including characters dubb…",
+          "url": "https://gizmodo.com/jeffrey-epstein-island-video-game-steam-1851265617",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/035967a82c97a3899af2126086b2d5b9.png",
+          "publishedAt": "2024-02-16T23:25:00Z",
+          "content": "A new video game popped up online on Friday, swiftly capturing quite a few peoples attention. The games name? Epstein. Notably, its set on an island. If you progress far enough into the gameplay, you… [+2388 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Nathan Ingraham",
+          "title": "Mario vs. Donkey Kong is an odd, eye-catching ode to simpler times",
+          "description": "I never played the original Mario vs. Donkey Kong, which came out in 2004 for the Game Boy Advance.  So I brought no nostalgia or past experience to the new version coming out this week, which feels thoroughly modern in all ways except the gameplay. Mario is …",
+          "url": "https://www.engadget.com/mario-vs-donkey-kong-is-an-odd-eye-catching-ode-to-simpler-times-171516524.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AClvIl9xNm5CrV4QgqGxlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/3810a390-cb54-11ee-9ff6-f0a10ebd023a",
+          "publishedAt": "2024-02-14T17:15:16Z",
+          "content": "I never played the original Mario vs. Donkey Kong, which came out in 2004 for the Game Boy Advance.  So I brought no nostalgia or past experience to the new version coming out this week, which feels … [+4962 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Mat Smith",
+          "title": "The Morning After: The Mac turns 40",
+          "description": "The Mac turned 40, putting Apple’s longest-running product squarely in middle age. But like someone who sees the back half of their life approaching and gets in marathon-runner shape, the Mac is in the strongest place it’s been for decades. While (its own) sm…",
+          "url": "https://www.engadget.com/the-morning-after-the-mac-turns-40-121528390.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7ua5EFc.L4XY_Wfuhzms7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/3dde8d60-9549-11ed-aeff-1e7b1716acb0",
+          "publishedAt": "2024-01-25T12:15:28Z",
+          "content": "The Mac turned 40, putting Apples longest-running product squarely in middle age. But like someone who sees the back half of their life approaching and gets in marathon-runner shape, the Mac is in th… [+2407 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Terrence O&#39;Brien",
+          "title": "Korg's MicroKorg 2 and KingKorg Neo are overdue updates to its virtual analog synthesizers",
+          "description": "NAMM 2024 is right around the corner, but Korg isn't waiting for the festivities to officially begin. It's announced about a dozen new products over the last few days. Among them are updates to two of the company's virtual analog synths, the roughly 10-year-o…",
+          "url": "https://www.engadget.com/korgs-microkorg-2-and-kingkorg-neo-are-overdue-updates-to-its-virtual-analog-synthesizers-110005853.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EPqtaPfDIwBMVLKfZTqe2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01ODk-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/b9062d20-b8c2-11ee-befa-882aaa2187e9",
+          "publishedAt": "2024-01-22T11:00:05Z",
+          "content": "NAMM 2024 is right around the corner, but Korg isn't waiting for the festivities to officially begin. It's announced about a dozen new products over the last few days. Among them are updates to two o… [+2408 chars]"
+      }
+  ]
+}

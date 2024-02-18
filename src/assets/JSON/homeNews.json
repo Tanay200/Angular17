@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 41003,
+  "totalResults": 41082,
   "articles": [
       {
           "source": {
@@ -34,25 +34,25 @@
               "name": "BBC News"
           },
           "author": "https://www.facebook.com/bbcnews",
+          "title": "India farmers to resume march to Delhi after crackdown",
+          "description": "Protesters had called a \"ceasefire\" on Tuesday after day-long clashes with security personnel.",
+          "url": "https://www.bbc.co.uk/news/world-asia-india-68271364",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C14/production/_132629030_gettyimages-1988741176-594x594.jpg",
+          "publishedAt": "2024-02-14T05:15:25Z",
+          "content": "Indian farmers are set to continue their march to Delhi as part of a protest demanding minimum crop prices.\r\nThe farmers, most of whom are from Punjab state, are still more than 200km (125 miles) fro… [+3164 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
           "title": "Gautam Singhania: India textiles tycoon hit with fresh allegations",
           "description": "BBC sees police complaint filed by Nawaz Modi accusing Gautam Singhania of \"harassment, threats and spying\".",
           "url": "https://www.bbc.co.uk/news/world-asia-india-68254607",
           "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10C34/production/_132606686_gettyimages-1245532803.jpg",
           "publishedAt": "2024-02-09T15:59:29Z",
           "content": "Nawaz Modi, the estranged wife of Indian textiles tycoon Gautam Singhania has made fresh allegations of spying and surveillance among others against her husband. \r\nMs Modi has been negotiating a divo… [+2286 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Yahoo Entertainment"
-          },
-          "author": "Mariella Moon",
-          "title": "Google changes its Play Store policy to allow more real-money games",
-          "description": "There may be a lot more real-money gaming (RMG) apps available in the Google Play Store before the year ends — at least in certain locations. Google initially started allowing apps that deal with real money in its store back in 2021, but only if they fall und…",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_784cebf3-606d-45c8-950f-5a167ef0a1c4",
-          "urlToImage": null,
-          "publishedAt": "2024-01-12T10:05:11Z",
-          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
       },
       {
           "source": {
@@ -66,19 +66,6 @@
           "urlToImage": "https://a.fsdn.com/sd/topics/social_64.png",
           "publishedAt": "2024-01-17T16:00:00Z",
           "content": "\"Spock, did you see the looks on their faces?\"\r\n\"Yes, Captain, a sort of vacant contentment.\""
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Android Central"
-          },
-          "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
-          "title": "OnePlus 12's Amazon listing spills the Indian pricing and storage details",
-          "description": "OnePlus 12 is all set to launch on January 23 globally, including regions like India, the U.S., and the U.K.",
-          "url": "https://www.androidcentral.com/phones/oneplus-12-amazon-india-listing-leak",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/tPpEjERkYbwkSWnNxMgnf7-1200-80.jpg",
-          "publishedAt": "2024-01-16T13:21:53Z",
-          "content": "<ul><li>The OnePlus 12 base variant listed on Amazon India confirms the specs and pricing.</li><li>The model featuring 12GB of RAM and 256GB of onboard storage is priced at Rs 69,999 (~$843).</li><li… [+2490 chars]"
       },
       {
           "source": {
@@ -111,19 +98,6 @@
               "id": null,
               "name": "ReadWrite"
           },
-          "author": "Sam Shedden",
-          "title": "Nvidia will sell advanced GPUs to India after China exports blocked",
-          "description": "India data center providers are purchasing tens of thousands of advanced Nvidia GPUs (graphics processing unit) in a bid to […]\nThe post Nvidia will sell advanced GPUs to India after China exports blocked appeared first on ReadWrite.",
-          "url": "https://readwrite.com/nvidia-will-sell-advanced-gpus-to-india-after-china-exports-blocked/",
-          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/Untitled-design-3.jpg",
-          "publishedAt": "2024-01-12T10:13:23Z",
-          "content": "India data center providers are purchasing tens of thousands of advanced Nvidia GPUs (graphics processing unit) in a bid to turbocharge growth in the country’s artificial intelligence (AI) sector.\r\nT… [+2834 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "ReadWrite"
-          },
           "author": "Graeme Hanna",
           "title": "India eyes $1.7 billion online gambling tax after controversial levy",
           "description": "India is aiming to collect around 140 billion rupees ($1.7 billion) in tax over the next financial year from online […]\nThe post India eyes $1.7 billion online gambling tax after controversial levy appeared first on ReadWrite.",
@@ -148,15 +122,15 @@
       {
           "source": {
               "id": null,
-              "name": "Android Central"
+              "name": "CNET"
           },
-          "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
-          "title": "Note-taking gets easier as reMarkable 2 makes its debut in India",
-          "description": "Note-taking on a tablet has become as good as paper with this launch",
-          "url": "https://www.androidcentral.com/tablets/note-taking-gets-easier-as-remarkable-2-makes-its-debut-in-india",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/xwobG4WXkrZGMJEJ4ECCT9-1200-80.jpeg",
-          "publishedAt": "2024-01-15T17:12:59Z",
-          "content": "Starting today (Jan.15), reMarkable 2, a tablet designed to mimic the feel of pen and paper, is now available for purchase in India via Amazon.in.\r\nThe reMarkable 2 has a 10.3-inch monochrome digital… [+2311 chars]"
+          "author": "Kevin Lynch",
+          "title": "Cricket Livestream: How to Watch India vs. England, 3rd Test From Anywhere - CNET",
+          "description": "The teams head to Rajkot with the series delicately poised at 1-1.",
+          "url": "https://www.cnet.com/tech/services-and-software/cricket-livestream-how-to-watch-india-vs-england-3rd-test-from-anywhere/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/2bdfce7f3894dcab2c36b2230253396834993c36/hub/2024/02/14/9804bf0c-507f-4d62-9480-7712067e3d5d/gettyimages-1987451210.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2024-02-15T01:00:05Z",
+          "content": "Injury-ravaged India will be looking to build on their battling performance in the second Test as they face off with England once more for the third Test of the series in Rajkot. \r\nThe hosts leveled … [+9047 chars]"
       },
       {
           "source": {
@@ -176,13 +150,13 @@
               "id": "business-insider",
               "name": "Business Insider"
           },
-          "author": "Huileng Tan",
-          "title": "The Red Sea attacks appear to be hurting traders and suppliers across the globe — but Russia's oil trade with India is still booming",
-          "description": "Russian oil cargoes typically sail through the Red Sea before reaching India and this remains the preferred route, per S&P.",
-          "url": "https://www.businessinsider.com/russia-economy-oil-trade-india-booming-red-sea-houthi-attacks-2024-1",
-          "urlToImage": "https://i.insider.com/659f5d90ec62ab5daf8290b7?width=1200&format=jpeg",
-          "publishedAt": "2024-01-11T06:15:22Z",
-          "content": "Indian Prime Minister Narendra Modi and Russian President Vladimir Putin.Mikhail Svetlov/Getty Images\r\n<ul><li>Russian oil cargoes are still sailing via the Red Sea to get to India, according to S&P … [+2636 chars]"
+          "author": "Lilian Manansala",
+          "title": "Police in India shoot tear gas at farmers protesting for better crop prices",
+          "description": "Police in India fired rounds of tear gas at farmers protesting government policies. The farmers want the government to increase their income.",
+          "url": "https://www.businessinsider.com/india-protest-farmers-union-police-tear-gas-crops-agriculture-modi-2024-2",
+          "urlToImage": "https://i.insider.com/65cbeafb6fcb546d2d4f8183?width=1200&format=jpeg",
+          "publishedAt": "2024-02-13T22:33:32Z",
+          "content": "Police in India fired rounds of tear gas at farmers protesting government policies. The farmers are pressuring the government to honor its promise to double their income and waive loans.Read the orig… [+31 chars]"
       },
       {
           "source": {
@@ -196,6 +170,19 @@
           "urlToImage": "https://i.insider.com/65bca0087a3d27148876f988?width=1200&format=jpeg",
           "publishedAt": "2024-02-02T08:03:09Z",
           "content": "The pigeon was detained in Mumbai on suspicion of being a spy bird.Bombay Society for the Prevention of Cruelty to Animals\r\n<ul><li>A pigeon accused of spying for China has finally been cleared of su… [+2313 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Taylor Rains",
+          "title": "I toured Air India's new A350 business class after flying its old 777 product for 13 hours. The difference is night and day.",
+          "description": "I could see the myriad differences between Air India's old and new business-class cabins after flying in its awkward Boeing 777 seat for 13 hours.",
+          "url": "https://www.businessinsider.com/air-india-business-class-a350-compared-to-777-legacy-2024-2",
+          "urlToImage": "https://i.insider.com/65cbac22f533b039a8830d0b?width=1200&format=jpeg",
+          "publishedAt": "2024-02-13T20:48:36Z",
+          "content": "The author sitting in the new Air India Airbus A350 business class.Taylor Rains/Business Insider\r\n<ul><li>Air India is rebuilding its reputation after falling into disarray under state ownership.</li… [+12149 chars]"
       },
       {
           "source": {
@@ -225,19 +212,6 @@
       },
       {
           "source": {
-              "id": "wired",
-              "name": "Wired"
-          },
-          "author": "Hannah Ritchie",
-          "title": "Global Emissions Could Peak Sooner Than You Think",
-          "description": "Global deployment of solar and wind power, plus a surge in EV sales, means emissions from fossil-fuel-derived energy will finally hit the downward slope.",
-          "url": "https://www.wired.com/story/global-emissions-could-peak-sooner-than-you-think/",
-          "urlToImage": "https://media.wired.com/photos/65a0d4335cf413d19929974a/191:100/w_1280,c_limit/WW2024_1318038785_ENVIRONMENT_Hannah-Ritchie.jpg",
-          "publishedAt": "2024-01-17T12:00:00Z",
-          "content": "Every November, the Global Carbon Project publishes the years global CO2 emissions. Its never good news. At a time when the world needs to be reducing emissions, the numbers continue to climb. Howeve… [+2901 chars]"
-      },
-      {
-          "source": {
               "id": null,
               "name": "Boing Boing"
           },
@@ -251,6 +225,32 @@
       },
       {
           "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Nikita Grant,Teresa Zhang",
+          "title": "Himalayan black salt was once used as medicine in India. Now it's becoming a staple among vegans.",
+          "description": "Himalayan black salt is a staple in Indian cuisine, known for its unique umami taste. But the risky process of making the salt is pushing people away.",
+          "url": "https://www.businessinsider.com/how-himalayan-black-salt-is-made-india-2024-2",
+          "urlToImage": "https://i.insider.com/65cf7b53a610a9069d59c7fa?width=1200&format=jpeg",
+          "publishedAt": "2024-02-16T17:33:04Z",
+          "content": "It takes a full day working in temperatures up to 1,000 degrees Celsius to make one batch of Himalayan black salt, or kala namak. The salt was once used as a medicine to treat indigestion. Today, it'… [+217 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Valentine's Day: Cambodia youth told to avoid 'inappropriate' activities",
+          "description": "Authorities are urging students to avoid \"inappropriate activities\" including premarital sex.",
+          "url": "https://www.bbc.co.uk/news/world-asia-68292612",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A279/production/_132639514_dff037c54d03a26a11eb882ed0bd7ce9efabd4cd0_0_3648_24321000x667.jpg",
+          "publishedAt": "2024-02-14T11:30:17Z",
+          "content": "Young people in Cambodia have been urged to avoid \"losing dignity\" this Valentine's Day, as authorities issued warnings about the pitfalls of premarital sex.\r\nThe education ministry ordered schools t… [+1747 chars]"
+      },
+      {
+          "source": {
               "id": "time",
               "name": "Time"
           },
@@ -261,6 +261,32 @@
           "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1796941064.jpg?quality=85",
           "publishedAt": "2024-02-02T15:52:24Z",
           "content": "Since December, Indian naval ships have acted as first responders to at least 17 incidents where pirates have hijacked vessels in the Red Sea. In the latest incident this past week, an Indian warship… [+4778 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "George Glover",
+          "title": "Chinese and Indian companies are about to be hit by sanctions because of their ties to Russia, reports say",
+          "description": "The European Union wants to sanction three Chinese companies for supporting Russia's war in Ukraine, according to reports.",
+          "url": "https://www.businessinsider.com/china-india-russia-ukraine-war-vladimir-putin-eu-sanctions-2024-2",
+          "urlToImage": "https://i.insider.com/65cb5599f533b039a882c914?width=1200&format=jpeg",
+          "publishedAt": "2024-02-13T12:50:50Z",
+          "content": "Russian president Vladimir Putin and Chinese leader Xi Jinping.Sergei Guneyev/AFP via Getty Images\r\n<ul><li>The European Union wants to sanction three Chinese companies for supporting Russia, accordi… [+2043 chars]"
+      },
+      {
+          "source": {
+              "id": "abc-news",
+              "name": "ABC News"
+          },
+          "author": "ABC News",
+          "title": "WATCH: Powerful avalanche captured by eyewitness in India",
+          "description": "The moment a massive avalanche hit near a tunnel's construction site was captured by an eyewitness in India.",
+          "url": "https://abcnews.go.com/International/video/powerful-avalanche-captured-eyewitness-india-107314874",
+          "urlToImage": "https://i.abcnewsfe.com/a/1d7e1ea9-4183-4bf5-8972-233746c78daa/240217_abc_social_india_hpMain_16x9.jpg?w=992",
+          "publishedAt": "2024-02-17T12:24:05Z",
+          "content": "<ul><li>Whats next for Russia? \r\n</li><li>What comes next after Texas school shooting?\r\n</li><li>What's next for abortion rights in America?\r\n</li><li>The new battle for voting rights\r\n</li><li>How w… [+2284 chars]"
       },
       {
           "source": {
@@ -290,6 +316,19 @@
       },
       {
           "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": null,
+          "title": "Why a rare ‘golden’ tiger photographed in India is worrying conservationists",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cf60a87d-744c-43b5-9c05-559494c9f740",
+          "urlToImage": null,
+          "publishedAt": "2024-02-15T01:29:15Z",
+          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 242 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      },
+      {
+          "source": {
               "id": "bbc-news",
               "name": "BBC News"
           },
@@ -300,6 +339,19 @@
           "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13EB/production/_132499050_withpirates.jpg",
           "publishedAt": "2024-01-30T08:49:59Z",
           "content": "Indian naval forces have rescued 19 Pakistani sailors after their fishing vessel was hijacked by pirates off Somalia's coast.\r\nThis was the second rescue operation in 36 hours by Indian warship INS S… [+2152 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "India opposition party claims bank accounts 'frozen'",
+          "description": "An hour later, the party said that income tax officials had unfrozen its accounts.",
+          "url": "https://www.bbc.co.uk/news/world-asia-india-68314281",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4DEA/production/_132664991_gettyimages-1512218054-594x594.jpg",
+          "publishedAt": "2024-02-16T08:07:13Z",
+          "content": "India's main opposition Congress party says its bank accounts have been frozen by the income tax (IT) department just months before the country holds general elections.\r\nThe party later said that IT … [+1521 chars]"
       },
       {
           "source": {
@@ -317,28 +369,15 @@
       {
           "source": {
               "id": null,
-              "name": "Slashdot.org"
-          },
-          "author": "msmash",
-          "title": "FCC Commissioner Carr Says 'Huge Miss' If US Doesn't Ban or Divest TikTok in 2024",
-          "description": "Brendan Carr, the senior Republican on the Federal Communications Commission, in a wide-ranging interview with Indian newspaper Economic Times praised the South Asian market for blocking Chinese apps in 2020 and said he hopes the U.S. will follow suit. He sai…",
-          "url": "https://news.slashdot.org/story/24/01/11/1550241/fcc-commissioner-carr-says-huge-miss-if-us-doesnt-ban-or-divest-tiktok-in-2024",
-          "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
-          "publishedAt": "2024-01-11T16:00:00Z",
-          "content": "Introducing, the 1010, a one-bit processor.\r\n0NOPNo Operation\r\n1JMPJump (address specified by next 2 bits)"
-      },
-      {
-          "source": {
-              "id": null,
               "name": "Android Central"
           },
-          "author": "tips@androidcentral.com (Nickolas Diaz)",
-          "title": "Google warms up to more gambling apps on the Play Store",
-          "description": "Google detailed an expansion of its RMG app acceptance on the Play Store in more countries, alongside stronger rules.",
-          "url": "https://www.androidcentral.com/apps-software/google-details-rmg-app-play-store-expansion",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/AhaX4oiMTLreQSzTcsAWn7-1200-80.jpg",
-          "publishedAt": "2024-01-12T20:02:30Z",
-          "content": "<ul><li>Google will expand its support of real-money gaming apps in June 2024 for developers in India, Mexico, and Brazil on the Play Store</li><li>The Play Store's expansion means developers can pro… [+2663 chars]"
+          "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+          "title": "Indian government moves to ban ProtonMail after bomb threat",
+          "description": "A ProtonMail account was used to send bomb threats to schools in the region, so the government wants to ban the service outright.",
+          "url": "https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/pSjJyAc6kTaKirPi8YxwFA-1200-80.jpg",
+          "publishedAt": "2024-02-15T07:17:31Z",
+          "content": "<ul><li>The Indian government's Information Technology ministry issued an order to block ProtonMail in the region.</li><li>The move comes after a bomb threat was sent to schools in Chennai via a Prot… [+2920 chars]"
       },
       {
           "source": {
@@ -352,6 +391,19 @@
           "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1933528813.jpg?quality=85",
           "publishedAt": "2024-01-18T15:47:26Z",
           "content": "A decades-long flashpoint in Indias sectarian politics is poised to reach a climax next week. The Ram Mandir, a Hindu temple, will be consecrated Jan 22. on a contested holy site once home to a mosqu… [+7394 chars]"
+      },
+      {
+          "source": {
+              "id": "time",
+              "name": "Time"
+          },
+          "author": "Krutika Pathi / AP",
+          "title": "Why Farmers and Police Are Clashing in India Over Crop Prices Again",
+          "description": "The protests, renewing a movement from two years ago, come at a crucial time for the governing party and Modi.",
+          "url": "https://time.com/6694308/farmers-crop-prices-india-new-delhi-protests/",
+          "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/india-farmer-protests-explainer.jpg?quality=85",
+          "publishedAt": "2024-02-13T10:00:00Z",
+          "content": "NEW DELHI Tens of thousands of Indian farmers are marching toward the capital to demand guaranteed crop prices, renewing a movement from two years ago that succeeded in getting the government to repe… [+3297 chars]"
       },
       {
           "source": {
@@ -382,15 +434,28 @@
       {
           "source": {
               "id": null,
-              "name": "ReadWrite"
+              "name": "Android Central"
           },
-          "author": "Maxwell William",
-          "title": "Google Play Store to welcome more real-money gaming apps in 2024",
-          "description": "Google is set to broaden the horizon for real-money gaming (RMG) apps on its Play Store, according to Tom’s Guide, […]\nThe post Google Play Store to welcome more real-money gaming apps in 2024 appeared first on ReadWrite.",
-          "url": "https://readwrite.com/google-play-store-to-welcome-more-real-money-gaming-apps-in-2024/",
-          "urlToImage": "https://readwrite.com/wp-content/uploads/2023/10/GoogleApple-Agreement.jpg",
-          "publishedAt": "2024-01-16T14:34:49Z",
-          "content": "Google is set to broaden the horizon for real-money gaming (RMG) apps on its Play Store, according to Tom’s Guide, marking a significant shift in its app policy. Starting June 2024, the tech giant pl… [+2028 chars]"
+          "author": "techkritiko@gmail.com (Jay Bonggolto)",
+          "title": "Google's Gemini app lands in more countries beyond the US",
+          "description": "The Gemini app, which was stuck stateside, is becoming accessible in parts of Europe and Asia.",
+          "url": "https://www.androidcentral.com/apps-software/googles-gemini-app-lands-in-more-countries-beyond-the-us",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/CWkqBjQwgmSW9hT6fCrVL-1200-80.jpg",
+          "publishedAt": "2024-02-12T03:33:49Z",
+          "content": "<ul><li>Initially limited to the United States, the Gemini app is now apparently spreading to more countries in Europe and Asia.</li><li>A user in Germany reported getting Gemini to work on their Pix… [+2108 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "George Dvorsky",
+          "title": "‘Odie’ Lander Begins Its Journey to the Moon. Here's What's Next",
+          "description": "Intuitive Machines’ Odysseus lander has begun its eight-day voyage to the Moon. The mission is fraught with peril, as every previous attempt by private companies to land softly on the Moon has ended in failure. Here’s what needs to go right for this Houston-b…",
+          "url": "https://gizmodo.com/odysseus-moon-mission-intuitive-machines-launch-2024-1851260385",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c3c07421804d74b8994629c861cd1359.jpg",
+          "publishedAt": "2024-02-15T17:20:00Z",
+          "content": "Intuitive Machines Odysseus lander has begun its eight-day voyage to the Moon. The mission is fraught with peril, as every previous attempt by private companies to land softly on the Moon has ended i… [+3458 chars]"
       },
       {
           "source": {
@@ -404,19 +469,6 @@
           "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f0349531f251fc840f4407364cf6f57a.jpg",
           "publishedAt": "2024-01-19T17:41:00Z",
           "content": "Japans SLIM is on the Moon and is sending data to Earth, but the situation looks grim. Officials with Japanese space agency JAXA say the landers solar cells are not generating sufficient amounts of e… [+3580 chars]"
-      },
-      {
-          "source": {
-              "id": "time",
-              "name": "Time"
-          },
-          "author": "Koh Ewe",
-          "title": "How a Social Media Spat Spiraled Into an Indian Tourism Boycott of a Tropical Island Paradise",
-          "description": "Indians are posting on social media about their canceled trips to the Maldives and urging travel to Lakshadweep, a nearby Indian archipelago, instead.",
-          "url": "https://time.com/6554787/india-maldives-tourism-boycott-modi-israel-lakshadweep/",
-          "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/Maldives-India-Boycott.jpg?quality=85",
-          "publishedAt": "2024-01-12T09:50:00Z",
-          "content": "The tropical beaches of the tiny archipelagic Maldives may lose one of their biggest tourist groups amid a bizarre diplomatic spat. \r\nHeres everything to know about Indian tourists boycott of the Mal… [+4466 chars]"
       },
       {
           "source": {
@@ -476,19 +528,6 @@
               "name": "BBC News"
           },
           "author": "https://www.facebook.com/bbcnews",
-          "title": "Machete attacks leave children with 'war-zone' injuries, say Leeds trauma staff",
-          "description": "On-shift with the Leeds hospital team caring for young knife crime patients in West Yorkshire.",
-          "url": "https://www.bbc.co.uk/news/uk-england-leeds-67832694",
-          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3333/production/_132270131_df786e57-5df2-4484-bfaf-6a262eb1d0ad.jpg",
-          "publishedAt": "2024-01-16T03:46:12Z",
-          "content": "Media caption, On-shift with the Leeds hospital team caring for young knife crime patients in West Yorkshire\r\nStaff at a West Yorkshire major trauma centre say they are concerned about the number of … [+6384 chars]"
-      },
-      {
-          "source": {
-              "id": "bbc-news",
-              "name": "BBC News"
-          },
-          "author": "https://www.facebook.com/bbcnews",
           "title": "Vadodara boat accident: India schoolchildren were 'not given life jackets'",
           "description": "Parents of students who died after a boat capsized in India's Gujarat state allege negligence by authorities.",
           "url": "https://www.bbc.co.uk/news/world-asia-india-68027147",
@@ -498,29 +537,29 @@
       },
       {
           "source": {
-              "id": "bbc-news",
-              "name": "BBC News"
+              "id": "business-insider",
+              "name": "Business Insider"
           },
-          "author": "https://www.facebook.com/bbcnews",
-          "title": "Myanmar rebel group claims control of India border town",
-          "description": "The Arakan Army says it has taken control of Paletwa, in Chin State, a key trading post with India.",
-          "url": "https://www.bbc.co.uk/news/world-asia-67982635",
-          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7BD7/production/_132330713_d2bbefc44c1d8b2955a7852d9e4b7eebb3a252b60_81_5276_29682000x1125.jpg",
-          "publishedAt": "2024-01-15T16:45:02Z",
-          "content": "Ethnic insurgents in western Myanmar say they have captured an important town on one of the main routes to India from military forces. \r\nThe Arakan Army (AA) - one of three armed groups that launched… [+2843 chars]"
+          "author": "Morgan McFall-Johnsen",
+          "title": "Weeks after the Peregrine lunar lander failed, NASA is launching the IM-1 mission to touch down on the moon",
+          "description": "If the IM-1 mission succeeds, it will be the first commercial lunar landing and NASA will have experiments on the moon for the first time in 50 years.",
+          "url": "https://www.businessinsider.com/nasa-intuitive-machines-moon-landing-attempt-after-astrobotic-fail-2024-2",
+          "urlToImage": "https://i.insider.com/65cbc14594aa8ee8e84ada78?width=1200&format=jpeg",
+          "publishedAt": "2024-02-14T00:34:38Z",
+          "content": "The Intuitive Machines Nova-C lander that's set to fly to the moon in February.Intuitive Machines/NASA\r\n<ul><li>NASA and Intuitive Machines are trying to land on the moon in February.</li><li>NASA's … [+4454 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Yahoo Entertainment"
+              "id": "the-verge",
+              "name": "The Verge"
           },
-          "author": null,
-          "title": "Maldives leader says his country's small size isn't a license to bully in apparent swipe at India",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9763933-e974-4ba6-b308-9928b157574b",
-          "urlToImage": null,
-          "publishedAt": "2024-01-13T18:54:23Z",
-          "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+          "author": "Jess Weatherbed",
+          "title": "SpaceX successfully launches Odysseus in bid to return US to the lunar surface",
+          "description": "The Nova-C “Odysseus” lander built by Intuitive Machines was successfully launched by SpaceX on Thursday, aiming to be the first US spacecraft to touch down on the Moon in 50 years.",
+          "url": "https://www.theverge.com/2024/2/15/24073690/spacex-intuitive-machines-odysseus-novac-lunar-lander-moon-mission",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/7yTuCEgNoXaUlSObB13wXWUrbDM=/0x0:3002x1952/1200x628/filters:focal(1501x976:1502x977)/cdn.vox-cdn.com/uploads/chorus_asset/file/25287408/2003731596.jpg",
+          "publishedAt": "2024-02-15T11:39:00Z",
+          "content": "Following its successful deployment, the Nova-C spacecraft now faces a two-week journey to reach the Moon’s south pole. | Photo by GREGG NEWTON/AFP via Getty Images\r\n\n \n\n A robotic lunar lander built… [+3823 chars]"
       },
       {
           "source": {
@@ -534,19 +573,6 @@
           "urlToImage": "https://i.insider.com/65b8fbb9ac2de4f17ee5b6fb?width=1200&format=jpeg",
           "publishedAt": "2024-01-30T15:56:58Z",
           "content": "Russian President Vladimir Putin.Mikhail Klimentyev/Sputnik AFP\r\n<ul><li>The International Monetary Fund raised its 2024 forecast for Russia's economy.</li><li>It now expects the economy to expand by… [+1861 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "AppleInsider"
-          },
-          "author": "news@appleinsider.com (William Gallagher)",
-          "title": "Apple opens new office in Bengaluru, India",
-          "description": "Nine months after leasing an office block in the southern Indian state of Karnataka, Apple has now officially opened its 15-storey offices there.Apple's new office in Bengaluru (Source: Apple)Bengaluru is the capital of Karnataka, and Apple originally signed …",
-          "url": "https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india",
-          "urlToImage": "https://photos5.appleinsider.com/gallery/58151-118498-000-lead-Bengaluru-office-xl.jpg",
-          "publishedAt": "2024-01-17T12:00:47Z",
-          "content": "Apple's new office in Bengaluru (Source: Apple)\r\nNine months after leasing an office block in the southern Indian state of Karnataka, Apple has now officially opened its 15-storey offices there.\r\nBen… [+1539 chars]"
       },
       {
           "source": {
@@ -602,32 +628,6 @@
       },
       {
           "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Juan Carlos Figueroa",
-          "title": "La Google Play Store permitirá más juegos con dinero real en México y otros países",
-          "description": "Google está modificando sus políticas para ampliar el tipo y la cantidad de juegos con dinero real disponibles en su Play Store. Lo hará poco a poco: primero implementará el cambio en México, Brasil e India. Según la tecnológica, esto brindará nuevas oportuni…",
-          "url": "http://hipertextual.com/2024/01/la-google-play-store-permitira-mas-juegos-con-dinero-real-en-mexico-y-otros-paises",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/09/juegos-de-azar.jpg",
-          "publishedAt": "2024-01-12T18:31:18Z",
-          "content": "Google está modificando sus políticas para ampliar el tipo y la cantidad de juegos con dineroreal disponibles en su Play Store. Lo hará poco a poco: primero implementará el cambio en México, Brasil e… [+3529 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Boing Boing"
-          },
-          "author": "David Pescovitz",
-          "title": "Dead man revived when ambulance hit a pothole",
-          "description": "In Haryana, India, Darshan Singh Brar, age 80, was in the hospital on a ventilator for four days when physicians reported that his heart had stopped. Declared dead, Brar was put in an ambulance to be taken back to his home where mourners were waiting and he w…",
-          "url": "https://boingboing.net/2024/01/15/dead-man-revived-when-ambulance-hit-a-pothole.html",
-          "urlToImage": null,
-          "publishedAt": "2024-01-15T19:09:12Z",
-          "content": "In Haryana, India, Darshan Singh Brar, age 80, was in the hospital on a ventilator for four days when physicians reported that his heart had stopped. Declared dead, Brar was put in an ambulance to be… [+913 chars]"
-      },
-      {
-          "source": {
               "id": "bbc-news",
               "name": "BBC News"
           },
@@ -642,15 +642,15 @@
       {
           "source": {
               "id": null,
-              "name": "Boing Boing"
+              "name": "Slashdot.org"
           },
-          "author": "David Pescovitz",
-          "title": "Job to \"impregnate women\" was—surprise—an intricate scam",
-          "description": "Get paid to meet women in hotel rooms and have sex to hopefully impregnate them with no further obligation? For some men in India, the ad on Facebook was too good to be true. Of course, it was. \nBihar police arrested eight suspects and are seeking 18 others f…",
-          "url": "https://boingboing.net/2024/01/11/job-to-impregnate-women-was-surprise-an-intricate-scam.html",
-          "urlToImage": "https://boingboing.net/wp-content/uploads/2024/01/132257059_whatsappimage2024-01-09at2.31.45pm.jpg.webp",
-          "publishedAt": "2024-01-11T18:10:42Z",
-          "content": "Get paid to meet women in hotel rooms and have sex to hopefully impregnate them with no further obligation? For some men in India, the ad on Facebook was too good to be true. Of course, it was. \r\nBih… [+1031 chars]"
+          "author": "msmash",
+          "title": "Every Country Needs Sovereign AI, Nvidia CEO Says",
+          "description": "Nvidia blog: Every country needs to own the production of their own intelligence, NVIDIA founder and CEO Jensen Huang told attendees Monday at the World Governments Summit in Dubai. Huang, who spoke as part of a fireside chat with the UAE's Minister of AI, Hi…",
+          "url": "https://tech.slashdot.org/story/24/02/12/1727248/every-country-needs-sovereign-ai-nvidia-ceo-says",
+          "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+          "publishedAt": "2024-02-12T17:27:00Z",
+          "content": "Every country needs to own the production of their own intelligence, NVIDIA founder and CEO Jensen Huang told attendees Monday at the World Governments Summit in Dubai. Huang, who spoke as part of a … [+1123 chars]"
       },
       {
           "source": {
@@ -693,58 +693,6 @@
       },
       {
           "source": {
-              "id": "business-insider",
-              "name": "Business Insider"
-          },
-          "author": "Yoonji Han",
-          "title": "Netflix removed an Indian film after religious viewers criticized meat-eating characters",
-          "description": "A right-wing Hindu group filed a complaint accusing the film of \"intentionally\" hurting \"Hindu sentiments.\"",
-          "url": "https://www.businessinsider.com/netflix-pulls-indian-film-annapoorani-after-facing-religious-backlash-2024-1",
-          "urlToImage": "https://i.insider.com/65a5765b6979d737182350b0?width=1200&format=jpeg",
-          "publishedAt": "2024-01-15T18:58:48Z",
-          "content": "Netflix took down the Indian film 'Annapoorani: the Goddess of Food' after backlash from a Hindu nationalist group.Zee Studios\r\n<ul><li>Netflix took down an Indian film after receiving backlash from … [+3424 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Android Police"
-          },
-          "author": "Krystle Vermes",
-          "title": "Google wants to see more gambling apps in the Play Store",
-          "description": "India, Brazil, and Mexico are getting expanded support for 'real-money gaming,' with more territories to come",
-          "url": "https://www.androidpolice.com/google-gambling-play-store-apps/",
-          "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/google-play-store-hero-generic.jpg",
-          "publishedAt": "2024-01-12T17:47:06Z",
-          "content": "Summary\r\n<ul><li> Google is expanding support for real-money gambling apps in certain countries beginning June 2024, including India, Mexico, and Brazil, with further expansion planned for other coun… [+3144 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Xataka.com"
-          },
-          "author": "Javier Marquez",
-          "title": "NVIDIA ya no puede vender sus GPU de vanguardia en China, pero acaba de conseguir otro cliente potencialmente enorme: India",
-          "description": "Las principales potencias del planeta participan de una carrera para liderar el desarrollo de la inteligencia artificial. En este escenario tremendamente competitivo entran en juego las GPU de NVIDIA, un componente clave para dotar a los centros de datos de l…",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-no-puede-vender-sus-gpu-vanguardia-china-acaba-conseguir-otro-cliente-potencialmente-enorme-india",
-          "urlToImage": "https://i.blogs.es/d680b6/nvidia/840_560.jpeg",
-          "publishedAt": "2024-01-12T20:01:30Z",
-          "content": "Las principales potencias del planeta participan de una carrera para liderar el desarrollo de la inteligencia artificial. En este escenario tremendamente competitivo entran en juego las GPU de NVIDIA… [+2916 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "AppleInsider"
-          },
-          "author": "news@appleinsider.com (Malcolm Owen)",
-          "title": "Apple removes nine cryptocurrency apps from India App Store",
-          "description": "Apple has removed a number of cryptocurrency apps from the regional App Store servicing India, weeks after a financial regulator declared they were operating illegally.Representations of cryptocurrenciesOn December 28, India's Financial Intelligence Unit decl…",
-          "url": "https://appleinsider.com/articles/24/01/10/apple-removes-nine-cryptocurrency-apps-from-india-app-store",
-          "urlToImage": "https://photos5.appleinsider.com/gallery/58048-118232-53864-108358-bitcoin-xl-xl.jpg",
-          "publishedAt": "2024-01-10T13:00:59Z",
-          "content": "Representations of cryptocurrencies\r\nApple has removed a number of cryptocurrency apps from the regional App Store servicing India, weeks after a financial regulator declared they were operating ille… [+1194 chars]"
-      },
-      {
-          "source": {
               "id": null,
               "name": "AppleInsider"
           },
@@ -761,26 +709,26 @@
               "id": null,
               "name": "AppleInsider"
           },
-          "author": "news@appleinsider.com (Malcolm Owen)",
-          "title": "Google follows Apple in pulling crypto apps in India",
-          "description": "Google has followed after Apple in removing a number of major crypto exchange apps from the Google Play Store in India, after regulators deemed them as operating illegally in the country.Representations of cryptocurrenciesOn January 10, after India's Financia…",
-          "url": "https://appleinsider.com/articles/24/01/15/google-follows-apple-in-pulling-crypto-apps-in-india",
-          "urlToImage": "https://photos5.appleinsider.com/gallery/58105-118400-58048-118232-53864-108358-bitcoin-xl-xl-xl.jpg",
-          "publishedAt": "2024-01-15T12:31:32Z",
-          "content": "Representations of cryptocurrencies\r\nGoogle has followed after Apple in removing a number of major crypto exchange apps from the Google Play Store in India, after regulators deemed them as operating … [+1249 chars]"
+          "author": "news@appleinsider.com (William Gallagher)",
+          "title": "Hundreds strike at Apple supplier Flex's plant in India",
+          "description": "Workers at the Indian plant of Apple supplier Flex staged a one-day strike over pay, conditions, and the firm's refusal to recognize a union.A Flex facility in India (Source: Flex)Flex makes chargers for Apple and while not the best-known of the Cupertino fir…",
+          "url": "https://appleinsider.com/articles/24/02/16/hundreds-strike-at-apple-supplier-flexs-plant-in-india",
+          "urlToImage": "https://photos5.appleinsider.com/gallery/58617-119497-000-lead-Flex-xl.jpg",
+          "publishedAt": "2024-02-16T11:40:46Z",
+          "content": "A Flex facility in India (Source: Flex)\r\nWorkers at the Indian plant of Apple supplier Flex staged a one-day strike over pay, conditions, and the firm's refusal to recognize a union.\r\nFlex makes char… [+1221 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "AppleInsider"
+              "id": "the-verge",
+              "name": "The Verge"
           },
-          "author": "news@appleinsider.com (William Gallagher)",
-          "title": "India may make it cheaper to produce iPhones",
-          "description": "The Indian government is reportedly considering import duty costs on key smartphone components, including those for the iPhone.Mumbai, IndiaDespite previously introducing new import fees for assembled devices such as laptops — and then backing down again — In…",
-          "url": "https://appleinsider.com/articles/24/01/11/india-may-make-it-cheaper-to-produce-iphones",
-          "urlToImage": "https://photos5.appleinsider.com/gallery/54637-110448-51897-102940-50774-100235-50489-99331-18914-18533-india-mumbai-xl-xl-xl-xl-xl.jpg",
-          "publishedAt": "2024-01-11T14:49:43Z",
-          "content": "Mumbai, India\r\nThe Indian government is reportedly considering import duty costs on key smartphone components, including those for the iPhone.\r\nDespite previously introducing new import fees for asse… [+807 chars]"
+          "author": "Justine Calma",
+          "title": "The threat of extinction is getting worse for migratory animals",
+          "description": "A new United Nations report gives the fullest picture yet of migratory species struggling to overcome growing threats, from pollution and climate change to urban development and agriculture.",
+          "url": "https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/h5kNb06_KICKtrH3Z6uuDM5gxG4=/0x0:4000x2656/1200x628/filters:focal(2000x1328:2001x1329)/cdn.vox-cdn.com/uploads/chorus_asset/file/25283603/566448831.jpg",
+          "publishedAt": "2024-02-13T20:00:51Z",
+          "content": "The endangered Steppe Eagle is one of the migratory species that has become even more threatened in the past 30 years, according to a new UN report. | Photo by: Education Images/Universal Images Grou… [+7733 chars]"
       },
       {
           "source": {
@@ -797,6 +745,32 @@
       },
       {
           "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Farmers' protest: Delhi turns into fortress as thousands march to India capital",
+          "description": "Thousands of farmers have hit the streets again saying their key demands from 2021 haven't been fulfilled.",
+          "url": "https://www.bbc.co.uk/news/world-asia-india-68271356",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6EDE/production/_132628382_gettyimages-1996266567.jpg",
+          "publishedAt": "2024-02-13T04:26:22Z",
+          "content": "Thousands of protesting farmers are marching from neighbouring states to India's capital Delhi to seek assured prices for their crops\r\nIn 2020, farmers had camped at Delhi borders protesting against … [+2851 chars]"
+      },
+      {
+          "source": {
+              "id": "abc-news",
+              "name": "ABC News"
+          },
+          "author": "JON GAMBRELL Associated Press",
+          "title": "Indian PM Narendra Modi arrives in UAE on seventh trip to nation, cementing ties",
+          "description": "Indian Prime Minister Narendra Modi has arrived in the United Arab Emirates on his seventh trip to the nation",
+          "url": "https://abcnews.go.com/International/wireStory/indian-prime-minister-narendra-modi-arrives-uae-seventh-107185314",
+          "urlToImage": "https://i.abcnewsfe.com/a/4e1221c8-9b0e-42d3-ae4d-2993728e9fb0/wirestory_e3373c079d6c995f359a0c2f8a2680c8_16x9.jpg?w=1600",
+          "publishedAt": "2024-02-13T12:54:33Z",
+          "content": "DUBAI, United Arab Emirates -- Indian Prime Minister Narendra Modi arrived Tuesday in the United Arab Emirates on his seventh trip to the nation, preparing to be feted by tens of thousands of his cou… [+3076 chars]"
+      },
+      {
+          "source": {
               "id": null,
               "name": "MarketWatch"
           },
@@ -807,6 +781,19 @@
           "urlToImage": "https://images.mktw.net/im-94422071/social",
           "publishedAt": "2024-02-01T16:04:00Z",
           "content": "India is capturing investors attention, as exchange-traded funds targeting stocks in the emerging market extend their climb in 2024.The countrys economy, which stands to benefit from a changing globa… [+5289 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Isaac Schultz",
+          "title": "'Rat Dck' Among Gibberish AI Images Published in Science Journal",
+          "description": "This week, the scientific journal Frontiers in Cell and Developmental Biology published research featuring bogus imagery made with Midjourney, one of the most popular AI image generators.Read more...",
+          "url": "https://gizmodo.com/rat-dck-among-gibberish-ai-images-published-in-science-1851260727",
+          "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/afff26fd705a3b9346ef047745e5f563.jpg",
+          "publishedAt": "2024-02-15T20:47:00Z",
+          "content": "This week, the scientific journal Frontiers in Cell and Developmental Biology published research featuring bogus imagery made with Midjourney, one of the most popular AI image generators.\r\nThe open-a… [+4470 chars]"
       },
       {
           "source": {
@@ -837,19 +824,6 @@
       {
           "source": {
               "id": null,
-              "name": "MarketWatch"
-          },
-          "author": "Tomi Kilgore",
-          "title": "Wipro’s stock having best day in 16 years amid signs IT consulting has bottomed",
-          "description": "Fellow India-based IT consultant Infosys’ stock surges again, after breaking a string of disappointing earnings reports.",
-          "url": "https://www.marketwatch.com/story/wipros-stock-having-best-day-in-16-years-amid-signs-it-consulting-has-bottomed-590e1643",
-          "urlToImage": "https://images.mktw.net/im-09168121/social",
-          "publishedAt": "2024-01-12T18:12:00Z",
-          "content": "Shares of Wipro Ltd. rocketed Friday, after the India-based information-technology consultant beat fiscal third-quarter profit expectations, to snap a streak of earning misses amid a jump in large de… [+2343 chars]"
-      },
-      {
-          "source": {
-              "id": null,
               "name": "NPR"
           },
           "author": "Omkar Khandekar",
@@ -875,16 +849,42 @@
       },
       {
           "source": {
-              "id": "business-insider",
-              "name": "Business Insider"
+              "id": null,
+              "name": "Theregister.com"
           },
-          "author": "Lauren Crosby Medlicott",
-          "title": "I invested enough money to retire at 29. I don't ever need to worry about earning a salary again.",
-          "description": "Daniel George was a VP at JP Morgan and before that worked at Google X. He saved enough money to retire before 30, but started his company instead.",
-          "url": "https://www.businessinsider.com/retire-early-vp-jp-morgan-invest-tax-advantaged-accounts-2024-1",
-          "urlToImage": "https://i.insider.com/659fd32b6979d73718225a7a?width=1200&format=jpeg",
-          "publishedAt": "2024-01-12T10:12:53Z",
-          "content": "Daniel George traveling in Iceland.Courtesy of Daniel George\r\n<ul><li>Daniel George got a job at Google X with a six-figure salary after finishing his doctoral studies.</li><li>He put most of his inc… [+7340 chars]"
+          "author": "Laura Dobberstein",
+          "title": "India weighs 18 bids to build subsidized local chip factories",
+          "description": "PLUS: Rideshare mega-merger mooted; France raids Huawei; Mongolia plans first satellite\nAPAC in Brief India has received 18 proposals to build chipmaking facilities under its Semicon India subsidy scheme, IT minister Rajeev Chandrasekhar revealed last week.…",
+          "url": "https://www.theregister.com/2024/02/12/asia_tech_news_roundup/",
+          "urlToImage": "https://regmedia.co.uk/2022/02/14/shutterstock_made_in_india.jpg",
+          "publishedAt": "2024-02-12T00:16:00Z",
+          "content": "APAC in Brief India has received 18 proposals to build chipmaking facilities under its Semicon India subsidy scheme, IT minister Rajeev Chandrasekhar revealed last week.\r\nThe program has earmarked $9… [+5275 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Android Central"
+          },
+          "author": "techkritiko@gmail.com (Jay Bonggolto)",
+          "title": "HMD Global's upcoming smartphone might ditch the Nokia branding",
+          "description": "HMD could be breaking free from the Nokia nest and spreading its wings (with a new phone).",
+          "url": "https://www.androidcentral.com/phones/leak-reveals-first-hmd-branded-phone",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/xqrgyUcGABrtMkJk3XnVGC-1200-80.jpg",
+          "publishedAt": "2024-01-23T03:19:56Z",
+          "content": "<ul><li>HMD Global, the company behind Nokia, could debut its first-ever self-branded smartphone this year.</li><li>A sneak peek of the upcoming HMD smartphone has surfaced through leaked renders.</l… [+2006 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Android Central"
+          },
+          "author": "tips@androidcentral.com (Nickolas Diaz)",
+          "title": "Samsung levels up Galaxy AI as it goes hands-free in Bixby integration",
+          "description": "Samsung announced it has integrated Galaxy AI with its native on-device assistant, Bixby.",
+          "url": "https://www.androidcentral.com/apps-software/samsung-galaxy-ai-bixby-integration-announced",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/LbEqWpgEHpvQNPj9PHWcth-1200-80.jpg",
+          "publishedAt": "2024-02-16T23:32:47Z",
+          "content": "<ul><li>Samsung announced it has integrated its AI software, Galaxy AI, with its on-device assistant, Bixby.</li><li>This opens Galaxy AI's features to be accessed hands-free through voice controls, … [+2291 chars]"
       },
       {
           "source": {
@@ -905,12 +905,12 @@
               "name": "Android Central"
           },
           "author": "techkritiko@gmail.com (Jay Bonggolto)",
-          "title": "HMD Global's upcoming smartphone might ditch the Nokia branding",
-          "description": "HMD could be breaking free from the Nokia nest and spreading its wings (with a new phone).",
-          "url": "https://www.androidcentral.com/phones/leak-reveals-first-hmd-branded-phone",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/xqrgyUcGABrtMkJk3XnVGC-1200-80.jpg",
-          "publishedAt": "2024-01-23T03:19:56Z",
-          "content": "<ul><li>HMD Global, the company behind Nokia, could debut its first-ever self-branded smartphone this year.</li><li>A sneak peek of the upcoming HMD smartphone has surfaced through leaked renders.</l… [+2006 chars]"
+          "title": "Google vows to address Gemini's existing issues fast",
+          "description": "Google is working to quickly fix any flaws in the Gemini app that users point out.",
+          "url": "https://www.androidcentral.com/apps-software/google-will-fix-these-gemini-flaws-asap",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/ncSK72n8EjwWB8GY552oum-1200-80.jpg",
+          "publishedAt": "2024-02-12T10:22:17Z",
+          "content": "<ul><li>Android users are facing challenges with Gemini as it lacks some features present in the old Google Assistant, particularly in media services such as podcasts, news, and radio.</li><li>Google… [+2349 chars]"
       },
       {
           "source": {
@@ -954,19 +954,6 @@
       {
           "source": {
               "id": null,
-              "name": "Googleblog.com"
-          },
-          "author": "Android Developers",
-          "title": "A New Approach to Real-Money Games on Google Play",
-          "description": "Based on the learnings from the pilots and positive feedback from users and developers, Google Play will begin supporting more RMG apps this year.",
-          "url": "https://android-developers.googleblog.com/2024/01/a-new-approach-to-real-money-games-on-google-play.html",
-          "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLf1-r4ZnSclRc-JuUie1CBHw6giBnM4TIfh4mT5KsnIOvDEAI1ILqydxgNszVn3RDQn8VlrLyp1lfvAVhvURhu0pOi7g0kf9ifI9t41JJpMWZVu47bSIVWf1JWPWXPJ-6GuRfOJN8iOsyYZvsBWYAwFROUtNkaXpW95W55OLpCdWzU78qo1xABl3hD18/s1600/Social-Play-Announcement-General%20%282%29.png",
-          "publishedAt": "2024-01-12T01:00:00Z",
-          "content": "Posted by Karan Gambhir – Director, Global Trust and Safety Partnerships\n\n\n\n\nAs a platform, we strive to help developers responsibly build new businesses and reach wider audiences across a variety of… [+3317 chars]"
-      },
-      {
-          "source": {
-              "id": null,
               "name": "Xataka.com"
           },
           "author": "Matías S. Zavia",
@@ -1002,19 +989,6 @@
           "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
           "publishedAt": "2024-02-05T14:44:00Z",
           "content": "These are humbling times for Europe. The continent barely escaped recession late last year as the U.S. boomed. It is losing out to the U.S. on artificial intelligence, and to China on electric vehicl… [+2355 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Boing Boing"
-          },
-          "author": "Rob Beschizza",
-          "title": "Orders soar at Airbus, which makes jets where the side doesn't fall off",
-          "description": "With post-pandemic demand for new jets growing and the competition in bad shape, Airbus is picking up the slack. The Wall Street Journal reports that the European plane maker is shattering records for orders. It can't keep up with demand and is sold out for a…",
-          "url": "https://boingboing.net/2024/01/12/orders-soar-at-airbus-which-makes-jets-where-the-side-doesnt-fall-off.html",
-          "urlToImage": "https://boingboing.net/wp-content/uploads/2022/02/delta.jpg",
-          "publishedAt": "2024-01-12T15:42:00Z",
-          "content": "With post-pandemic demand for new jets growing and the competition in bad shape, Airbus is picking up the slack. The Wall Street Journal reports that the European plane maker is shattering records fo… [+1581 chars]"
       },
       {
           "source": {
@@ -1070,29 +1044,16 @@
       },
       {
           "source": {
-              "id": "bbc-news",
-              "name": "BBC News"
+              "id": null,
+              "name": "ReadWrite"
           },
-          "author": "https://www.facebook.com/bbcnews",
-          "title": "Sachin Tendulkar: Indian cricket legend warns of 'disturbing' deepfake video",
-          "description": "The fake video appears to show Sachin Tendulkar promoting an online gaming app.",
-          "url": "https://www.bbc.co.uk/news/world-asia-india-67989930",
-          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/184F5/production/_132337599_gettyimages-1161147027.jpg",
-          "publishedAt": "2024-01-16T09:36:23Z",
-          "content": "Indian cricket legend Sachin Tendulkar has criticised a deepfake video in which he seems to be promoting an online gaming app.\r\nThe video shows him praising the app as a quick way to make money.\r\n\"Th… [+2052 chars]"
-      },
-      {
-          "source": {
-              "id": "time",
-              "name": "Time"
-          },
-          "author": "SIBI ARASU / AP",
-          "title": "Global Renewable Energy Growth Hits 25-Year High",
-          "description": "IEA executive director Fatih Birol said renewables likely to increase by 2.5 times by 2030—but that's still not enough to hit climate goals.",
-          "url": "https://time.com/6554327/global-renewable-energy-growth-record-high-iea/",
-          "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/renewable-energy-global-growth-iea-report-2023.jpg?quality=85",
-          "publishedAt": "2024-01-11T14:45:41Z",
-          "content": "(BENGALURU, India) The world's renewable energy grew at its fastest rate in the past 25 years in 2023, the International Energy Agency reported Thursday in its first assessment since nations agreed i… [+3359 chars]"
+          "author": "Deanna Ritchie",
+          "title": "The e-waste “gold mining” efforts are booming",
+          "description": "The components of your antiquated desktop computer, laptop, TV, and other electronics include valuable metals like copper and gold. Tiny […]\nThe post The e-waste “gold mining” efforts are booming appeared first on ReadWrite.",
+          "url": "https://readwrite.com/the-e-waste-gold-mining-efforts-are-booming/",
+          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/E-waste-gold-mining.png",
+          "publishedAt": "2024-01-31T22:04:08Z",
+          "content": "The components of your antiquated desktop computer, laptop, TV, and other electronics include valuable metals like copper and gold. Tiny businesses are profiting from the e-waste industry’s unrealize… [+2669 chars]"
       },
       {
           "source": {
@@ -1112,39 +1073,13 @@
               "id": null,
               "name": "ReadWrite"
           },
-          "author": "Deanna Ritchie",
-          "title": "The e-waste “gold mining” efforts are booming",
-          "description": "The components of your antiquated desktop computer, laptop, TV, and other electronics include valuable metals like copper and gold. Tiny […]\nThe post The e-waste “gold mining” efforts are booming appeared first on ReadWrite.",
-          "url": "https://readwrite.com/the-e-waste-gold-mining-efforts-are-booming/",
-          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/E-waste-gold-mining.png",
-          "publishedAt": "2024-01-31T22:04:08Z",
-          "content": "The components of your antiquated desktop computer, laptop, TV, and other electronics include valuable metals like copper and gold. Tiny businesses are profiting from the e-waste industry’s unrealize… [+2669 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "ReadWrite"
-          },
           "author": "Graeme Hanna",
-          "title": "China’s military and government acquire Nvidia chips despite US ban",
-          "description": "Chinese military bodies and state-affiliated groups have acquired Nvidia chips despite a US ban on the export of the commodity […]\nThe post China’s military and government acquire Nvidia chips despite US ban appeared first on ReadWrite.",
-          "url": "https://readwrite.com/chinas-military-and-government-acquire-nvidia-chips-despite-us-ban/",
-          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/China-military-acquire-Nvidia-chips.jpg",
-          "publishedAt": "2024-01-15T18:32:54Z",
-          "content": "Chinese military bodies and state-affiliated groups have acquired Nvidia chips despite a US ban on the export of the commodity to China.\r\nAs reported by Reuters, small batches of the semiconductors h… [+2119 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "ReadWrite"
-          },
-          "author": "Ali Rees",
-          "title": "US state legislators race to enact AI laws before 2024 primaries",
-          "description": "US primary elections begin next week, and state legislatures are scrambling to enact laws that will prevent, or at least […]\nThe post US state legislators race to enact AI laws before 2024 primaries appeared first on ReadWrite.",
-          "url": "https://readwrite.com/states-scramble-to-legislate-against-ai-before-the-primaries/",
-          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/pexels-andrew-patrick-14380163-scaled.jpg",
-          "publishedAt": "2024-01-12T10:49:52Z",
-          "content": "US primary elections begin next week, and state legislatures are scrambling to enact laws that will prevent, or at least limit, the impact of artificial intelligence (AI) and AI-generated deepfakes, … [+2018 chars]"
+          "title": "Deepfake electioneering sparks AI ‘return’ of controversial dictator",
+          "description": "Indonesia has experienced the impact of deepfake electioneering with a message from a controversial dictator who ruled the country for […]\nThe post Deepfake electioneering sparks AI ‘return’ of controversial dictator appeared first on ReadWrite.",
+          "url": "https://readwrite.com/deepfake-electioneering-sparks-ai-return-of-controversial-dictator/",
+          "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/suharto.jpeg",
+          "publishedAt": "2024-02-14T14:23:25Z",
+          "content": "Indonesia has experienced the impact of deepfake electioneering with a message from a controversial dictator who ruled the country for more than 30 years.\r\n The former military general opened the add… [+2273 chars]"
       },
       {
           "source": {
@@ -1200,6 +1135,32 @@
       },
       {
           "source": {
+              "id": null,
+              "name": "Android Central"
+          },
+          "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+          "title": "Galaxy AI is jumping from the Galaxy S24 to your favorite Samsung earbuds",
+          "description": "Samsung's Buds 2 and Buds FE earbuds can now work with Live Translation and Interpretation, provided you have a Galaxy S24 phone connected to them.",
+          "url": "https://www.androidcentral.com/accessories/earbuds/galaxy-buds-2-gets-galaxy-ai-live-translate-interpretation",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/33NhG82db6SKwc694LKQmM-1200-80.jpg",
+          "publishedAt": "2024-02-14T06:55:31Z",
+          "content": "<ul><li>Samsung announced an OTA update on February 13 enabling Galaxy AI on its latest earbuds.</li><li>Supported Galaxy Buds will work with Live Translation for phone calls and in-person Interpreta… [+2507 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Forbes"
+          },
+          "author": "Clare O'Connor",
+          "title": "Mystery monk makes billions with 5-hour energy (2012)",
+          "description": "Ever heard of Manoj Bhargava? Probably not. He's a former monk who struck it rich with that ubiquitous red bottle: 5-Hour Energy. Read his improbable story.",
+          "url": "https://www.forbes.com/sites/clareoconnor/2012/02/08/manoj-bhargava-the-mystery-monk-making-billions-with-5-hour-energy/",
+          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/05Vo2Xg3nUd1B/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2024-02-09T20:28:41Z",
+          "content": "Manoj Bhargava. Photo by Eric Eggley.\r\nThis story appears in the Feb. 27 edition of Forbes magazine.\r\nIn one corner of Manoj Bhargavas office is a cemetery of sorts. Its a Formica bookcase, its shelv… [+14613 chars]"
+      },
+      {
+          "source": {
               "id": "bbc-news",
               "name": "BBC News"
           },
@@ -1213,16 +1174,16 @@
       },
       {
           "source": {
-              "id": null,
-              "name": "Theregister.com"
+              "id": "business-insider",
+              "name": "Business Insider"
           },
-          "author": "Laura Dobberstein",
-          "title": "Foxconn’s latest Indian foray is a chip packaging JV with HCL Group",
-          "description": "Fending off ransomware at home in Taiwan as it continues diversification into semiconductors\nTaiwan’s contract manufacturer to the stars, Foxconn aka Hon Hai Technology Group , has teamed with India’s HCL Group to create a semiconductor assembly and testing f…",
-          "url": "https://www.theregister.com/2024/01/19/foxconn_hcl_india_osat/",
-          "urlToImage": "https://regmedia.co.uk/2022/11/23/shutterstock_foxconn.jpg",
-          "publishedAt": "2024-01-19T05:45:09Z",
-          "content": "Taiwans contract manufacturer to the stars, Foxconn aka Hon Hai Technology Group , has teamed with Indias HCL Group to create a semiconductor assembly and testing facility in India.\r\nFoxconn looks fo… [+1740 chars]"
+          "author": "insider@insider.com (Fred Sahai)",
+          "title": "I'm a woman named Fred. I dread having to introduce myself to new people.",
+          "description": "My full name is Frédérique, but I go by Fred, a male name in America. I dread meeting new people and having to explain my unusual name to them.",
+          "url": "https://www.businessinsider.com/woman-male-name-fred-unusual-challenges-2024-2",
+          "urlToImage": "https://i.insider.com/65c2462143bb77284ba3eb58?width=1200&format=jpeg",
+          "publishedAt": "2024-02-10T11:18:01Z",
+          "content": "When I first asked about the origins of my birth name, Frédérique, I assumed my mother would be to blame for it.I was raised in Montreal, a bilingual city. My dad was born in India but raised in Cana… [+2996 chars]"
       },
       {
           "source": {
@@ -1236,6 +1197,19 @@
           "urlToImage": "https://i.insider.com/65b91a3c43bb77284ba1ae78?width=1200&format=jpeg",
           "publishedAt": "2024-02-04T09:31:02Z",
           "content": "Expats say that Iceland is flooded with tourists in the summer, and that it's hard to find good avocadoes.Jorge Castellanos/SOPA Images/LightRocket via Getty Images; Valiantsin Suprunovich/Getty Imag… [+6619 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Theregister.com"
+          },
+          "author": "Laura Dobberstein",
+          "title": "Foxconn’s latest Indian foray is a chip packaging JV with HCL Group",
+          "description": "Fending off ransomware at home in Taiwan as it continues diversification into semiconductors\nTaiwan’s contract manufacturer to the stars, Foxconn aka Hon Hai Technology Group , has teamed with India’s HCL Group to create a semiconductor assembly and testing f…",
+          "url": "https://www.theregister.com/2024/01/19/foxconn_hcl_india_osat/",
+          "urlToImage": "https://regmedia.co.uk/2022/11/23/shutterstock_foxconn.jpg",
+          "publishedAt": "2024-01-19T05:45:09Z",
+          "content": "Taiwans contract manufacturer to the stars, Foxconn aka Hon Hai Technology Group , has teamed with Indias HCL Group to create a semiconductor assembly and testing facility in India.\r\nFoxconn looks fo… [+1740 chars]"
       },
       {
           "source": {
@@ -1265,16 +1239,29 @@
       },
       {
           "source": {
-              "id": "buzzfeed",
-              "name": "Buzzfeed"
+              "id": null,
+              "name": "Xataka.com"
           },
-          "author": "Audrey Engvalson",
-          "title": "18 Five-Ingredient-Or-Less Dinner Recipes I Can't Wait To Try Because I'm Lazy",
-          "description": "I can't handle six ingredients.View Entire Post ›",
-          "url": "https://www.buzzfeed.com/audreyworboys/five-ingredient-dinners",
-          "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-01/11/18/enhanced/7c31210a4f29/original-2299-1704996868-15.jpg?crop=1250:655;0,28%26downsize=1250:*",
-          "publishedAt": "2024-01-13T19:15:02Z",
-          "content": "\"2 cups chopped rotisserie chicken\r\n2 cups chopped fresh baby spinach\r\n1 jar (15 oz) Alfredo sauce\r\n2 cups shredded mozzarella\r\n1 can Pillsbury Grands buttermilk biscuits\r\nHeat oven to 350°F. Spray 1… [+400 chars]"
+          "author": "Albert Sanchis",
+          "title": "Hubo un tiempo en el que Japón aspiraba a superar a la economía estadounidense. Acaba de ser superado por Alemania",
+          "description": "En la década de los 70 y los 80, algunos economistas creían que la industria electrónica y la automovilística de Japón harían que el país algún día superara a Estados Unidos como la mayor economía del mundo. Aquello no sólo no pasó, sino que el estallido de l…",
+          "url": "https://www.xataka.com/magnet/hubo-tiempo-que-japon-aspiraba-a-superar-a-economia-estadounidense-acaba-ser-superado-alemania",
+          "urlToImage": "https://i.blogs.es/3fc79d/photo-1593839154339-377e24b3ba32/840_560.jpeg",
+          "publishedAt": "2024-02-17T14:01:26Z",
+          "content": "En la década de los 70 y los 80, algunos economistas creían que la industria electrónica y la automovilística de Japón harían que el país algún día superara a Estados Unidos como la mayor economía de… [+4361 chars]"
+      },
+      {
+          "source": {
+              "id": "vice-news",
+              "name": "Vice News"
+          },
+          "author": "Jordan Pearson, Maxwell Strachan",
+          "title": "Study Featuring AI-Generated Giant Rat Penis Retracted, Journal Apologizes",
+          "description": "A peer-reviewed study featured nonsensical AI images including a giant rat penis in the latest example of how generative AI has seeped into academia.",
+          "url": "https://www.vice.com/en/article/4a389b/ai-midjourney-rat-penis-study-retracted-frontiers",
+          "urlToImage": "https://video-images.vice.com/articles/65cf716207a19bc183680a84/lede/1708093819347-your-paragraph-text-76.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq",
+          "publishedAt": "2024-02-16T14:31:14Z",
+          "content": "A peer-reviewed scientific journal that this week published a study containing nonsensical AI-generated images including a gigantic rat penis has retracted the article and apologized.\r\nThe paper was … [+2521 chars]"
       },
       {
           "source": {
@@ -1301,6 +1288,19 @@
           "urlToImage": "https://regmedia.co.uk/2021/03/11/indian_flag_on_moon_shutterstock.jpg",
           "publishedAt": "2024-02-07T05:37:26Z",
           "content": "Indias Space Research Organisation (ISRO) will send a humanoid robot astronaut into this space this year, then send it back alongside actual humans in 2025 on its long-delayed Gaganyaan orbital missi… [+2626 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Xataka.com"
+          },
+          "author": "Pablo Martínez-Juarez",
+          "title": "Una epidemia silenciosa está matando cada vez a más seres humanos en todo el planeta: las infecciones por hongos",
+          "description": "Virus y bacterias tienden a acaparar todo el protagonismo cuando hablamos de enfermedades contagiosas (y de alguna que otra que solemos considerar como no transmisible). Sin embargo, en un mundo de pandemias víricas y superbacterias, lo hongos también están c…",
+          "url": "https://www.xataka.com/medicina-y-salud/epidemia-silenciosa-esta-matando-cada-vez-a-seres-humanos-todo-planeta-infecciones-hongos",
+          "urlToImage": "https://i.blogs.es/688b75/corte-infecciones-hongos/840_560.jpeg",
+          "publishedAt": "2024-01-17T16:30:36Z",
+          "content": "Virus y bacterias tienden a acaparar todo el protagonismo cuando hablamos de enfermedades contagiosas (y de alguna que otra que solemos considerar como no transmisible). Sin embargo, en un mundo de p… [+3893 chars]"
       }
   ]
 }

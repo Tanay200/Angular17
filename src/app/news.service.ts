@@ -17,8 +17,33 @@ export class NewsService {
   constructor(private httpClient : HttpClient) { }
 
   fetchNews(search:string):Observable<any> {
-    // return this.httpClient.get("assets/JSON/searchNews.json");
-    return this.httpClient.get(this.url+search+'&apiKey='+this.API_KEY);
+    if(search == 'India'){
+      return this.httpClient.get("assets/JSON/homeNews.json");
+      return this.httpClient.get(this.url+search+'&apiKey='+this.API_KEY);
+    }
+    else if(search == 'politics'){
+      return this.httpClient.get("assets/JSON/politicsNews.json");
+      return this.httpClient.get(this.url+search+'&apiKey='+this.API_KEY);
+    }
+
+    else if(search == 'world'){
+      return this.httpClient.get("assets/JSON/worldNews.json");
+      return this.httpClient.get(this.url+search+'&apiKey='+this.API_KEY);
+    }
+
+    else if(search == 'sports'){
+      return this.httpClient.get("assets/JSON/sportsNews.json");
+      return this.httpClient.get(this.url+search+'&apiKey='+this.API_KEY);
+    }
+
+    else if(search == 'business'){
+      return this.httpClient.get("assets/JSON/businessNews.json");
+      return this.httpClient.get(this.url+search+'&apiKey='+this.API_KEY);
+    }
+    else{
+      return this.httpClient.get(this.url+search+'&apiKey='+this.API_KEY);
+    }
+
   }
 
 }
